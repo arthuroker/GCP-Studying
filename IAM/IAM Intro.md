@@ -5,4 +5,6 @@ IAM allows you mange *who* has what *access* to *which* resources in GCP
 
 Generally apply to two types of accounts:
 
-**User Accounts**: associated with a human and needs a username and password to authen
+**User Accounts**: associated with a human and needs a username and password to authenticate, used for accessing cloud resources
+
+**Service accounts**: associated with an application,
