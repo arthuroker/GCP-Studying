@@ -1,1 +1,4 @@
-**Importance**: Used for differnent cloud components to communicate securely (databases, message queues, )
+**Importance**: Used for different cloud components to communicate securely (databases, message queues, APIs, etc.) 
+
+They enable secure communication
+
