@@ -6,3 +6,10 @@ Editor - read and write access to most resources, cannot manage roles and permis
 
 Viewer - read only access (ie. auditors or clients)
 
+**Predefined Roles**
+
+Specific to a GCP resource or API
+
+Correlates to common roles or use cases
+
+Motivation: minimize management overhead and reducing security r
