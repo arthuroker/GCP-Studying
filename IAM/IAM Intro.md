@@ -7,4 +7,6 @@ Generally apply to two types of accounts:
 
 **User Accounts**: associated with a human and needs a username and password to authenticate, used for accessing cloud resources
 
-**Service accounts**: associated with an application,
+**Service accounts**: associated with an application, process, or VM.
+	Generally used to enable automated or scheduled tasks
+	Autheticated via keys 
