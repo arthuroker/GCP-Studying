@@ -8,3 +8,5 @@ Each resource has an associated service account to ensure only authorizes resour
 
 App Engine gets data from Big Query and also writes data to it
 
+App Engine might also trigger a cloud function
+
