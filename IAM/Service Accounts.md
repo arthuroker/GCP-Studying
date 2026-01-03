@@ -1,1 +1,1 @@
-**Importance**: 
+**Importance**: Used for differnent cloud components to communicate securely (databases, message queues, )
