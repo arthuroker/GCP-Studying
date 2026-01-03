@@ -12,4 +12,5 @@
 1. Descriptive role name
 	Used in documentation or conversation to make it easier to understand
 
-2. 
+2. Technical role name
+	Technical role name used in GCP or gcloud CLI. follows {service}.{rolename}
