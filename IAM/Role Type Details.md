@@ -24,4 +24,7 @@ Cloud Run developer - deploying and managing cloud run services
 
 Compute Engine admin - manage compute engine resources like VMs and disks
 
-Cloud Functions developer - 
+Cloud Functions developer - deploying and managing cloud functions
+
+Big Query Data editor - edit data sets like data and schema 
+
