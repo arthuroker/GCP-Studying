@@ -1,1 +1,2 @@
-IAM allows you mange *who* 
+IAM allows you mange *who* has what *access* to *which* resources in GCP
+
