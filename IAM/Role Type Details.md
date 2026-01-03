@@ -12,4 +12,8 @@ Specific to a GCP resource or API
 
 Correlates to common roles or use cases
 
-Motivation: minimize management overhead and reducing security r
+Motivation: minimize management overhead and reducing security risk
+
+Examples:
+
+Big Query Job User - allows to execute queries or load data in Big Query
