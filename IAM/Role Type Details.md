@@ -22,3 +22,6 @@ Storage Object Viewer - read only to cloud storage data
 
 Cloud Run developer - deploying and managing cloud run services
 
+Compute Engine admin - manage compute engine resources like VMs and disks
+
+Cloud Functions developer - 
