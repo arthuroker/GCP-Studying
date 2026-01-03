@@ -12,5 +12,4 @@ App Engine might also trigger a cloud function
 
 **Types of Service Accounts**:
 
-**Google Managed**: automatically created by Google. Used by GCP resources. Come with default permissions
-
+**Google Managed**: automatically created by Google. Used by GCP resources. Come with default permissions. Name is predetermined. 
