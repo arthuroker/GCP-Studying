@@ -9,4 +9,5 @@ Generally apply to two types of accounts:
 
 **Service accounts**: associated with an application, process, or VM.
 	Generally used to enable automated or scheduled tasks
-	Autheticated via keys 
+	Authenticated via keys or tokens
+
