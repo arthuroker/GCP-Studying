@@ -20,3 +20,6 @@ App Engine might also trigger a cloud function
 
 To be able to create and modify user created service accounts, you need this role
 
+**Example**:
+
+If you have a workflow where a python script needs to access a GCP resource, that GCP resource needs to have a service account that would allow the 
