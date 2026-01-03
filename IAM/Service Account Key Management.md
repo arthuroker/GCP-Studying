@@ -6,4 +6,9 @@ Keys live client-side
 
 **Migration Example**:
 
-On prem -> 
+On prem -> GCP migration
+
+Application workloads to Compute Engine
+
+Data to Firestore
+
