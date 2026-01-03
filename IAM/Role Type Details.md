@@ -17,3 +17,8 @@ Motivation: minimize management overhead and reducing security risk
 Examples:
 
 Big Query Job User - allows to execute queries or load data in Big Query
+
+Storage Object Viewer - read only to cloud storage data
+
+Cloud Run developer - deploying and managing cloud run services
+
