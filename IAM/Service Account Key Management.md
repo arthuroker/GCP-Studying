@@ -12,4 +12,7 @@ Application workloads to Compute Engine
 
 Data to Firestore
 
-For the on
+For the on-prem system you need to create a user managed key
+
+For the Compute Engine instance you need a Google-managed key
+
