@@ -9,5 +9,8 @@ Privilege escalation - when a hacker can give themselves more permissions to do 
 
 **Benefits**
 
-
+1. Reduces the blast radius of compromised accounts
+2. Helps mitigate insider threats
+3. Lowers chances of accidents
+4. 
 
