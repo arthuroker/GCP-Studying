@@ -5,4 +5,5 @@ gcloud iam roles copy
 
 **Getting IAM policies for different resources**
 
-gcloud {resource} get-iam-policy
+gcloud {resource/project} get-iam-policy {resource/project flags and info}
+
