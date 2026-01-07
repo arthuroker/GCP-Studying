@@ -5,4 +5,4 @@ gcloud iam roles copy
 
 **Getting IAM policies for different resources**
 
-gcloud {resource}
+gcloud {resource} get-iam-policy
