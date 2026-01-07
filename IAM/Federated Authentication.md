@@ -1,1 +1,2 @@
 **Definition**: Allows GCP resources to be accessed using existing credentials from a trusted Identity provider (IdP, ie. Okta, Azure AD)
+
