@@ -46,7 +46,7 @@ Notification types:
 **Monitoring multiple projects**
 
 
-
+Create a Cloud Monitoring workspace and link other projects to it
 
 
 
