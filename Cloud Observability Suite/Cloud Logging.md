@@ -8,3 +8,8 @@ Application logs- originate from code running on GCP
 
 Audit logs - logs activities that have implications for security and compliance
 
+
+Logs are kept by default for *30 days*, but this can be changed
+
+
+
