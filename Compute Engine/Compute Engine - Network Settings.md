@@ -11,3 +11,5 @@ Have the option to enable
 
 *Network Tags*
 
+Allows you to create rule based logic based on tags to Firewall rules
+
