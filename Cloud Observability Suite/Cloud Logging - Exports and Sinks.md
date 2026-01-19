@@ -19,6 +19,12 @@ Unifies data for analysis
 Reduces overhead by putting all logs in one place
 Easier auditing/compliance
 
+
+
 Long term retention for audit logs - storage bucket with the coldline storage class
 	For once a year or less - archive storage
+
+
+
+Integrating logs with a SIEM (security information and event management system)
 
