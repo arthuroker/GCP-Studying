@@ -10,4 +10,7 @@ Supports custom dashboards
 
 Built in:
 
-1. Infrastructure (cpu utilization, disk i/o, network traffic, )
+1. Infrastructure (cpu utilization, disk i/o, network traffic, memory usage)
+2. Application (response times, error rates, request rates, latency)
+3. System (system load, running processes)
+
