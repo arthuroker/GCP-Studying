@@ -37,6 +37,16 @@ Notification types:
 
 1. Email
 2. Text message
+3. Pub/Sub topic
+4. Webhook endpoint
+5. Third party (Slack, Pager duty)
+
+
+
+**Monitoring multiple projects**
+
+
+
 
 
 
