@@ -31,6 +31,14 @@ External:
 **Alerts**
 
 Can be configured to fire in real time on any metric
+	example: CPU utilization >90%
+
+Notification types:
+
+1. Email
+2. Text message
+
+
 
 
 
