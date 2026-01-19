@@ -18,3 +18,7 @@ Options:
 
 *Boot Disk Size*
 
+Default - 10GB
+
+Can be resized, want to consider increasing when utilization reaches 70-80%
+
