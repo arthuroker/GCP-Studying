@@ -20,3 +20,9 @@ Custom examples:
 2. Business transactions
 3. Custom operational/health
 
+External:
+
+1. Multi-cloud
+2. On-prem applications
+3. On-prem monitoring tools
+
