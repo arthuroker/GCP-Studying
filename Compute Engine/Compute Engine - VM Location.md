@@ -8,4 +8,6 @@ Ingress/Egress - communication within same region is cheaper than further away
 
 Failover and redundancy - deploying across multiple zones can reduce the impact of failures and outages
 
-Hardware availability - differnt 
+Hardware availability - different geographies have different hardware
+
+
