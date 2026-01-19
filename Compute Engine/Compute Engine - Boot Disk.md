@@ -3,7 +3,7 @@
 
 Many options - Debian or Ubuntu for most tasks
 
-*Boot Disk Type*
+*Boot Disk Type (Storage on VM)*
 
 Must always be persistent disks
 
