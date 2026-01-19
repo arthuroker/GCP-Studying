@@ -19,4 +19,6 @@ Unifies data for analysis
 Reduces overhead by putting all logs in one place
 Easier auditing/compliance
 
-Long term retention for audit logs - sotrage bucket with the coldline sotrage class
+Long term retention for audit logs - storage bucket with the coldline storage class
+	For once a year or less - archive storage
+
