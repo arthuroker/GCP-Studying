@@ -13,4 +13,4 @@ High-memory - good for large datasets, that load or process lots of data into me
 
 High-CPU - good for high computation (ie. encryption)
 
-Custom configuration - 
+Custom configuration - customize cores and memories
