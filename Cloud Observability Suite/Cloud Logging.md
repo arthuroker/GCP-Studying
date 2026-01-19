@@ -4,5 +4,7 @@ Allows you to *store, search, and analyze* log data and events from GCP resource
 
 Platform logs - originate from GCP services themselves
 
-Application logs- or
+Application logs- originate from code running on GCP
+
+Audit logs - logs activities that have implications for security and compliance
 
