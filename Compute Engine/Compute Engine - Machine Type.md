@@ -11,4 +11,6 @@ Standard - balanced workloads with moderate CPU and memory requirements
 
 High-memory - good for large datasets, that load or process lots of data into memory
 
-High-CPU - 
+High-CPU - good for high computation (ie. encryption)
+
+Custom configuration - 
