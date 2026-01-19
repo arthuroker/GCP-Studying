@@ -16,5 +16,9 @@ Allows you to create rule based logic based on tags to Firewall rules
 
 *Dynamic versus Static IP*
 
-Dynamic - default, assigned automatically, IP adchange when the VM is restarted
+Dynamic - default, assigned automatically, IP address change when the VM is restarted
+
+Static - IP address linked to VM, useful when you need consistent communication
+
+
 
