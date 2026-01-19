@@ -9,4 +9,6 @@ Shared-core - economical option for lightweight workloads
 
 Standard - balanced workloads with moderate CPU and memory requirements
 
-High
+High-memory - good for large datasets, that load or process lots of data into memory
+
+High-CPU - 
