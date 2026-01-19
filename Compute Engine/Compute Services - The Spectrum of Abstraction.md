@@ -18,3 +18,5 @@ App Engine - platform as a service, fully managed
 
 *Far right side*
 
+Cloud functions - lightweight event driven workloads, fully managed
+
