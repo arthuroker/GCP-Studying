@@ -28,3 +28,6 @@ Long term retention for audit logs - storage bucket with the coldline storage cl
 
 Integrating logs with a SIEM (security information and event management system)
 
+Designed to ingest, analyze, and act on security events across logs and different sources
+
+Real-time ingestion is critical for effectiveness
