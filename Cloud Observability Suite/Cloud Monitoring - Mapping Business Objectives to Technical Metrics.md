@@ -12,4 +12,5 @@ Corresponding technical metrics:
 
 1. Total visits/users
 2. Error rates
-3. 
+3. Server response times
+
