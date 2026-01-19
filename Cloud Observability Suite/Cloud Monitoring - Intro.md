@@ -26,3 +26,11 @@ External:
 2. On-prem applications
 3. On-prem monitoring tools
 
+
+
+**Alerts**
+
+Can be configured to fire in real time on any metric
+
+
+
