@@ -14,3 +14,9 @@ Built in:
 2. Application (response times, error rates, request rates, latency)
 3. System (system load, running processes)
 
+Custom examples:
+
+1. User engagement
+2. Business transactions
+3. Custom operational/health
+
