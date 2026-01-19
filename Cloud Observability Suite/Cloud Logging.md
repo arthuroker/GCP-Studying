@@ -2,4 +2,7 @@ Allows you to *store, search, and analyze* log data and events from GCP resource
 
 **Log Types**
 
-Platform logs - originiate from GCP services themselves
+Platform logs - originate from GCP services themselves
+
+Application logs- or
+
