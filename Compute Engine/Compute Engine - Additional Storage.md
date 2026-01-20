@@ -54,4 +54,8 @@ Temporary and ephemeral
 
 *Filestore*
 
-Shared POSIX
+Shared POSIX compliant file system
+	Multiple VMs can mount the same fileshare and read and write the same data
+
+
+
