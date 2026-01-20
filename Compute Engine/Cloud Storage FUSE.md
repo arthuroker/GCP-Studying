@@ -16,3 +16,6 @@ Works well with sequential read workloads
 
 Simple file operations without locking
 
+When you want VMs to access Cloud Storage like a file system
+
+*Reasons to use FUSE instead of Firestore or NFS (Network File *
