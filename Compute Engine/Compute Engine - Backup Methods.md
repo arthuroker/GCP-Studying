@@ -24,4 +24,6 @@ Use cases - allow for quick deployment of identical instances, create instance t
 
 *Difference between Disk snapshots and Custom Images*
 
-Snapshots focu
+Snapshots focus on incremental data backup
+
+Custom images focus on being a reusable, bootable template
