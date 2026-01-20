@@ -11,4 +11,5 @@ Although you can add more NICs, one for each VPC (virtual private cloud) you wan
 
 *Benefits*
 
-Allows for secure communcation
+Allows for secure communication between otherwise private networks
+
