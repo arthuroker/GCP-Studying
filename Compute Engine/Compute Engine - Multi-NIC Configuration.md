@@ -7,3 +7,8 @@ Network interface cloud - allows VMs to connect to a network and talk to other d
 
 VMs are given one NIC by default
 
+Although you can add more NICs, one for each VPC (virtual private cloud) you want to connect to
+
+*Benefits*
+
+Allows for secure communcation
