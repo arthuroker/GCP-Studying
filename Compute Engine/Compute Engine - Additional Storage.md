@@ -52,3 +52,6 @@ Ultra low latency
 Temporary and ephemeral
 	When VM is stopped or terminated, memory is not persisted
 
+*Filestore*
+
+Shared POSIX
