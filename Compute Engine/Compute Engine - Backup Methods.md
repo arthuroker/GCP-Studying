@@ -10,4 +10,8 @@ Can be created for a boot disks and/or attached disk
 
 *Custom Images*
 
-Gets info from 
+Gets info from the boot disk but not the attached disk
+	Only gets system files, OS, and config files
+
+Once taken, stored in an image repository managed by GCP
+
