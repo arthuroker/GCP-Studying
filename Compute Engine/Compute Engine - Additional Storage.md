@@ -42,3 +42,10 @@ Boot disks - by default, automatically deleted when the VM is deleted
 
 Persistent disks - retained by default when VM is deleted
 
+*Local SSD, different from persistent disks*
+
+It is physically and directly attached to the VM
+
+Ultra low latency
+	Good for high I/O workloads
+
