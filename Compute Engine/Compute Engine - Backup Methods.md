@@ -31,4 +31,8 @@ Custom images focus on being a reusable, bootable template
 
 *Machine images*
 
-A reusuable template that capture everything
+A reusable template that capture everything including boot disk, attached disk, as well as machine metadata and network configurations
+
+Usually stored in Cloud Storage
+
+Use cases - deploying indetical VMs, restoring VMs after failure/corruption
