@@ -15,3 +15,6 @@ Gets info from the boot disk but not the attached disk
 
 Once taken, stored in an image repository managed by GCP
 
+Can be created from a running disk, existing snapshot, or imported from outside GCP
+
+Use cases - allow for deployment 
