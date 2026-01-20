@@ -27,3 +27,8 @@ Avoids costs from Filestore compared to Cloud Storage
 *Limitations*
 
 Not good for low latency or random I/O needs
+
+No file locking or complex POSIX operations
+
+Not a replacement for high-performance NFS
+
