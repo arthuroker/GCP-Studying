@@ -15,3 +15,10 @@ Balanced - general workloads like web apps or dev VMs
 SSD - high performance, low latency like databases, analytics, high volume transactions
 
 Extreme - highest performance, highest cost
+
+Can resize which does not detach or stop VM
+
+*Resize persistent disk in Linux*
+
+1. Resize disk in GCP
+2. Verify disk was 
