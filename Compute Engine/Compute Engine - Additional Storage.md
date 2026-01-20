@@ -40,3 +40,5 @@ Regional persistent disk - VM is in one region attached disk is in another, but 
 
 Boot disks - by default, automatically deleted when the VM is deleted
 
+Persistent disks - retained by default when VM is deleted
+
