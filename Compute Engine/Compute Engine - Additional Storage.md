@@ -21,4 +21,9 @@ Can resize which does not detach or stop VM
 *Resize persistent disk in Linux*
 
 1. Resize disk in GCP
-2. Verify disk was 
+2. Verify disk was resized, Linux verifies it
+3. Resize file system so it knows it has more space
+
+
+*Zonal and regional persistent disks*
+
