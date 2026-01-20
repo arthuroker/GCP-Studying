@@ -19,4 +19,9 @@ Once taken, stored in an image repository managed by GCP
 
 Can be created from a running disk, existing snapshot, or imported from outside GCP
 
-Use cases - allow for quick deployment of identical instances
+Use cases - allow for quick deployment of identical instances, create instance templates
+
+
+*Difference between Disk snapshots and Custom Images*
+
+Snapshots focu
