@@ -27,3 +27,7 @@ Can resize which does not detach or stop VM
 
 *Zonal and regional persistent disks*
 
+Default - persistent disks are in the same region and zone as the VM
+
+Zonal persistent disk - attached disk is in a different zone
+
