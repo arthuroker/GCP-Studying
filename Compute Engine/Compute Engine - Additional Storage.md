@@ -57,5 +57,7 @@ Temporary and ephemeral
 Shared POSIX compliant file system
 	Multiple VMs can mount the same fileshare and read and write the same data
 
+They appear as if they were the local file system, making it easy to integrate
 
+Good for high I/O, high throughput, low latency, 
 
