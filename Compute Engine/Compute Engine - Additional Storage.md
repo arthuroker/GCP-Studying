@@ -31,3 +31,5 @@ Default - persistent disks are in the same region and zone as the VM
 
 Zonal persistent disk - attached disk is in a different zone
 
+Regional persistent disk - VM is in one region attached disk is in another, but there are two attached disks in that region in different zones
+
