@@ -5,3 +5,9 @@ Boot disk - contain OS and boot files. Can be resized, generally just for OS and
 
 Attached disks - extra storage for data and/or applications. Added and removed independently of boot disk. Might even persist if VM is deleted
 
+
+*Attached, Persistent Disks*
+
+Standard - most cost effective, used for backups and unfrequent access use cases
+
+Bla
