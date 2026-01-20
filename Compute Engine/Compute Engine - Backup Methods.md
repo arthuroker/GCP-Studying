@@ -35,4 +35,9 @@ A reusable template that capture everything including boot disk, attached disk, 
 
 Usually stored in Cloud Storage
 
-Use cases - deploying indetical VMs, restoring VMs after failure/corruption
+Use cases - deploying identical VMs, restoring VMs after failure/corruption
+
+*Creating Machine Images from a Snapshot*
+
+Snapshot + configuration details = Machine image
+
