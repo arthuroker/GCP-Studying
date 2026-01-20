@@ -31,8 +31,12 @@ Default - persistent disks are in the same region and zone as the VM
 	Best performance and minimizes latency
 
 Zonal persistent disk - attached disk is in a different zone
-	Cost effective wi
+	Cost effective with lower availability needs
 
 Regional persistent disk - VM is in one region attached disk is in another, but there are two attached disks in that region in different zones
 	High availability, durability, higher cost
+
+*Auto delete*
+
+Boot disks - by default, automatically deleted when the VM is deleted
 
