@@ -7,4 +7,8 @@ Need performance to scale automatically with storage?
 Need high availability across zones?
 	Filestore regional or Filestore enterprise
 
-Don't need high availi
+Don't need high availability or automatic performance scaling?
+	Filestore zonal or Filestore basic
+
+
+
