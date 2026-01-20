@@ -10,4 +10,8 @@ Attached disks - extra storage for data and/or applications. Added and removed i
 
 Standard - most cost effective, used for backups and unfrequent access use cases
 
-Bla
+Balanced - general workloads like web apps or dev VMs
+
+SSD - high performance, low latency like databases, analytics, high volume transactions
+
+Extreme - highest performance, highest cost
