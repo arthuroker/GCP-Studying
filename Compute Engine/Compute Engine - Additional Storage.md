@@ -59,5 +59,9 @@ Shared POSIX compliant file system
 
 They appear as if they were the local file system, making it easy to integrate
 
-Good for high I/O, high throughput, low latency, 
+Good for high I/O, high throughput, low latency
+
+Network attached, not physically
+
+
 
