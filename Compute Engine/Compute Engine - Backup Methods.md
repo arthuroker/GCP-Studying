@@ -27,3 +27,8 @@ Use cases - allow for quick deployment of identical instances, create instance t
 Snapshots focus on incremental data backup
 
 Custom images focus on being a reusable, bootable template
+
+
+*Machine images*
+
+A reusuable template that capture everything
