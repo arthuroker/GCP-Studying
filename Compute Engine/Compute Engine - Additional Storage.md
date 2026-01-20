@@ -49,3 +49,6 @@ It is physically and directly attached to the VM
 Ultra low latency
 	Good for high I/O workloads
 
+Temporary and ephemeral
+	When VM is stopped or terminated, memory is not persisted
+
