@@ -18,3 +18,5 @@ Can have IAM interact in this
 
 User attempts to access VM -> IAM checks -> Make decision on whether it's allowed
 
+Google handles SSH keys
+
