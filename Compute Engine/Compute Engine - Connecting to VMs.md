@@ -30,4 +30,7 @@ Roles:
 
 Proprietary protocol by Microsoft to access a Windows machine over network connection
 
-Provides GUI as if the remote 
+Provides GUI as if the remote user were there
+
+Used to access Windows based VMs
+
