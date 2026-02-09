@@ -20,3 +20,7 @@ User attempts to access VM -> IAM checks -> Make decision on whether it's allowe
 
 Google handles SSH keys
 
+Roles:
+
+1. *Compute OS login* - access to VM with no admin privileges (no root access)
+2. *Compute OS admin login* - can add software
