@@ -12,4 +12,8 @@ Routes SSH connection through Google's infrastructure
 
 Need to grant tunnel instances access through IAP command to relevant service or user accounts
 
-Can have IAM 
+Can have IAM interact in this
+
+*OS Login*
+
+User attempts to access VM -> IAM checks -> Make decision on whether it's allo
