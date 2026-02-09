@@ -26,4 +26,8 @@ Roles:
 2. *Compute OS admin login* - can add software
 3. *Compute OS Login external user* - same as 1, but for user's outside of the organization's domain
    
-   *R*
+*Remote Desktop Protocol (RDP)*
+
+Proprietary protocol by Microsoft to access a Windows machine over network connection
+
+Provides GUI as if the remote 
