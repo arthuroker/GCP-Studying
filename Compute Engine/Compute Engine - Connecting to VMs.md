@@ -16,4 +16,5 @@ Can have IAM interact in this
 
 *OS Login*
 
-User attempts to access VM -> IAM checks -> Make decision on whether it's allo
+User attempts to access VM -> IAM checks -> Make decision on whether it's allowed
+
