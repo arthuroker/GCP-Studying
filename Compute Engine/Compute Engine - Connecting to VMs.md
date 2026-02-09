@@ -24,3 +24,6 @@ Roles:
 
 1. *Compute OS login* - access to VM with no admin privileges (no root access)
 2. *Compute OS admin login* - can add software
+3. *Compute OS Login external user* - same as 1, but for user's outside of the organization's domain
+   
+   *R*
