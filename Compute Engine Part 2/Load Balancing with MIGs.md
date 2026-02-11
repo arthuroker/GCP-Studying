@@ -7,4 +7,5 @@ Global (HTTPS) load balancers are used primarily, but TCP workloads require Netw
 
 Load Balancers perform health checks - need to allow in Firewall rules
 
-Can also be used for individual VMs or unmanged ins
+Can also be used for individual VMs or unmanaged instance groups
+
