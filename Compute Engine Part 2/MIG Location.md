@@ -15,4 +15,6 @@ Good for high availability and zonal redundancy for critical applications
 
 GCE does not directly support a multi-regional MIG
 
-But you can deploy separate regional MIGs and put a global HTTPS load b
+But you can deploy separate regional MIGs and put a global HTTPS load balancer in front of them
+
+Good for applications with. geographically wide-reaching user base that need high availability and low latency
