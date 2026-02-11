@@ -9,5 +9,14 @@ Ensures that only new instances created in the MIG use the new instance template
 
 Existing instance are not touched (not restarted, replaced, or updated in anyway)
 
-Good for incremental updates and want to ensure currently running worklaods
+Good for incremental updates and want to ensure currently running workloads
 
+*Proactive mode*
+
+Active, applied to all existing instances, usually one-by-one
+
+maxSurge - max number of new instances that can be created beyond current size
+
+maxUnavailable - number of instances that can be unavailable at any time during the update
+
+Deplo
