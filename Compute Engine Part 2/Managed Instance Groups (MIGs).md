@@ -40,3 +40,8 @@ Autoscaling based on memory must include all relevant states to get an accurate 
 3. Cached - memory allocated for frequently accessed files/data
 4. Slab - kernel allocated memory for managing OS structures
 
+*Preventing over-provisioning*
+
+When you create more instances than needed, perhaps because it thinks the VMs are less healthy than they actual are
+
+Thus, initial delay on health checks should exceed the amount of time it ta
