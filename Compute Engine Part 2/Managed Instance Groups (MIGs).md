@@ -29,4 +29,11 @@ Uses CPU utilization as the default metric
 
 Good for variable workloads (gaming, web apps, scaling test environments)
 
-*Meme*
+*Memory-based scaling*
+
+Autoscaling based on memory must include all relevant states to get an accurate picture
+
+4 types of memory to track:
+
+1. Used memory - actively utilized by applcations
+2. 
