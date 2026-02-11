@@ -13,5 +13,8 @@ A reusable blueprint to specify machine type, disk, OS, network settings, startu
 
 Can be created from custom images
 
+MIGs use instance templates to create and mange fleets of identical VMs
 
-MIGs use instanc
+Can also be used to create standalone VMs
+
+
