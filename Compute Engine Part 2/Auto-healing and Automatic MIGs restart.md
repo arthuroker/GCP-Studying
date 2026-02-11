@@ -1,5 +1,5 @@
 
 *Autohealing*
 
-Automatically recreates unhealthy VMs to ensure high availibility
+Automatically recreates unhealthy VMs to ensure high availability
 
