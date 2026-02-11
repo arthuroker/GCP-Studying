@@ -19,4 +19,8 @@ maxSurge - max number of new instances that can be created beyond current size
 
 maxUnavailable - number of instances that can be unavailable at any time during the update
 
-Deplo
+2 options:
+
+1. Rolling restart - reuses existing instances and restarts them with the new configuration
+2. Rolling replace - deletes and recreates instances with the updated template
+
