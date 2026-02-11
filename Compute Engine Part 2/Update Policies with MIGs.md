@@ -15,9 +15,13 @@ Good for incremental updates and want to ensure currently running workloads
 
 Active, applied to all existing instances, usually one-by-one
 
+Create a new one, wait for it to be ready, then replace
+
 maxSurge - max number of new instances that can be created beyond current size
 
 maxUnavailable - number of instances that can be unavailable at any time during the update
+
+maxSurge = 1 and maxUnavailible = 0
 
 2 options:
 
