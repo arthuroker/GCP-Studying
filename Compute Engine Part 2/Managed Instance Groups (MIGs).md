@@ -44,4 +44,5 @@ Autoscaling based on memory must include all relevant states to get an accurate 
 
 When you create more instances than needed, perhaps because it thinks the VMs are less healthy than they actual are
 
-Thus, initial delay on health checks should exceed the amount of time it ta
+Thus, initial delay on health checks should exceed the amount of time it takes VMs to become fully operational, otherwise it could over-provision
+
