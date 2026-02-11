@@ -38,3 +38,5 @@ Autoscaling based on memory must include all relevant states to get an accurate 
 1. Used memory - actively utilized by applications
 2. Buffered memory - used to buffer temporary I/O operations
 3. Cached - memory allocated for frequently accessed files/data
+4. Slab - kernel allocated memory for managing OS structures
+
