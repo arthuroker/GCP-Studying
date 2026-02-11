@@ -27,4 +27,6 @@ Can specify a max and min replicas (instances in the group)
 Uses CPU utilization as the default metric
 	But can specify custom metrics (request latency, queue length)
 
+Good for variable workloads (gaming, web apps, scaling test environments)
 
+*Meme*
