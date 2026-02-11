@@ -21,7 +21,7 @@ maxSurge - max number of new instances that can be created beyond current size
 
 maxUnavailable - number of instances that can be unavailable at any time during the update
 
-maxSurge = 1 and maxUnavailible = 0
+maxSurge = 1 and maxUnavailable = 0 makes it very incremental, create one, then replace with ultimate availibility
 
 2 options:
 
