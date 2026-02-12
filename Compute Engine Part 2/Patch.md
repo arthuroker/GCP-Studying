@@ -14,3 +14,6 @@ Automates the patching process by scheduling and running patch jobs across VM in
 
 
 *Exam tip*
+
+When you need frequent security patches and updates, enables OS patch management to automate the installation of updates
+
