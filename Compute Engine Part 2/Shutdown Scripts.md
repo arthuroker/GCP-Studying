@@ -14,4 +14,9 @@ Useful with preemptible instances, which can be reclaimed by GCP at any time
 
 *Creating and using scripts*
 
-1. Write script in any exe file type
+1. Write script in any exe file type (bash, python)
+2. Add script to instance metadata
+3. VM is stopped, either by you or Google
+4. Clean-up through shutdown script automatically triggered
+
+
