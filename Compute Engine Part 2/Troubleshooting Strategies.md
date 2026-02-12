@@ -3,3 +3,13 @@
 
 Check logs from Cloud Logging and metrics in Cloud Monitoring
 
+*Serial Console*
+
+Tool for troubleshooting
+
+Low-level, text-based interface for interacting with VMs
+
+Mimics the functionality of a serial port on a traditional server
+
+Direct access to boot process, system messages, recovery tools
+
