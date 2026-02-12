@@ -32,4 +32,7 @@ Temporarily disable health checks when troubleshooting so it won't disable the V
    
 *Re-attach boot disk snapshot to another VM*
 
-Take a snapshot of the bootdisk and attach it to another VM
+Take a snapshot of the boot disk and attach it to another VM
+
+Advantages: troubleshooting without disrupting the original VM and you can examine a point-in-time snapshot to ensure no critical data or logs are missed
+
