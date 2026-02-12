@@ -26,4 +26,5 @@ Need to specify the license during import or instance creation
 
 *Benchmarking*
 
-Pre-migration practice of evual
+Pre-migration practice of evaluating current system's performance and running controlled tests in GCE to determine the optimal config for VMs
+
