@@ -25,3 +25,7 @@ Max number of replicas configured in autoscaling
 
 Temporarily disable health checks when troubleshooting so it won't disable the VM thinking it's unhealthy
 
+1. Temporarily disable health checks
+2. Configure access (eg. add SSH keys)
+3. Investigate and resolve
+4. Re-enable health checks
