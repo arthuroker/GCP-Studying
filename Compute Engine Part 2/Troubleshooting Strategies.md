@@ -13,3 +13,7 @@ Mimics the functionality of a serial port on a traditional server
 
 Direct access to boot process, system messages, recovery tools
 
+*503 error and resource quotas*
+
+503 indicates the server is temporarily unavailable because it may be overwhelming resources
+
