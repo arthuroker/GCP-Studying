@@ -17,3 +17,6 @@ Direct access to boot process, system messages, recovery tools
 
 503 indicates the server is temporarily unavailable because it may be overwhelming resources
 
+Exceeding quotas can prevent the creation of new instances
+
+Max number of replicas configured in autoscaling
