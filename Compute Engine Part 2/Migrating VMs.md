@@ -17,4 +17,13 @@ Identifies dependencies to prevent disruptions
 
 Fallback and troubleshooting strategies
 
-*BYOL (Bring your own license*
+*BYOL (Bring your own license)*
+
+Practice of migrating any licenses you are using along with the actual instance or config
+	Like a windows server license
+
+Need to specify the license during import or instance creation
+
+*Benchmarking*
+
+Pre-migration practice of evual
