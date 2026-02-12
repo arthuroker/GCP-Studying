@@ -11,5 +11,8 @@ K8s/Kubernetes is an open source platform for automating the deployment, scaling
 
 *What problems does Kubernetes solve?*
 
-1. Manual Scaling
-2. 
+Manual scaling:
+
+Before - teams had to manually provision and mange servers, making it difficult to handle sudden spikes in traffic
+
+Solution - Kubernetes enables automated sclaing through Horizontal Pod Autoscaler (HPA_ and CLuster Autoscaler)
