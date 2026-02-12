@@ -7,4 +7,6 @@
 
 *Active-standby model*
 
-Having a standby instance re
+Having a standby instance ready in a different zone and a load balancer configured to redirect traffic there in case of failure and a t disk that the standby could attach to (usually regional)
+
+
