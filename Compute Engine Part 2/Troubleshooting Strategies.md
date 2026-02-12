@@ -20,3 +20,8 @@ Direct access to boot process, system messages, recovery tools
 Exceeding quotas can prevent the creation of new instances
 
 Max number of replicas configured in autoscaling
+
+*Disable health checks when troubleshooting*
+
+Temporarily disable health checks when troubleshooting so it won't disable the VM thinking it's unhealthy
+
