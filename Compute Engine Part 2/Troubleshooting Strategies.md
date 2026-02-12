@@ -29,3 +29,7 @@ Temporarily disable health checks when troubleshooting so it won't disable the V
 2. Configure access (eg. add SSH keys)
 3. Investigate and resolve
 4. Re-enable health checks
+   
+*Re-attach boot disk snapshot to another VM*
+
+Take a snapshot of the bootdisk and attach it to another VM
