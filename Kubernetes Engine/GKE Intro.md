@@ -19,3 +19,6 @@ Solution - Kubernetes enables automated scaling through Horizontal Pod Autoscale
 
 Unreliable deployments:
 
+Before: Applications could fail because they have different environments across servers
+
+Solution - Ensures reliable, consistent deploymentsusing declaritive
