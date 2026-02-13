@@ -13,3 +13,8 @@ Smallest deployable unit in Kubernetes, can contain one or more containers. When
 
 *Configuration*
 
+Configuration is managed through a file called the Kubernetes manifest
+
+*Kubernetes Manifest*
+
+a file, usually YAML or JSON, that defines the desired state of objects (pods, services, ployments, etc. )
