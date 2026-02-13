@@ -16,3 +16,6 @@ Manual scaling:
 Before - teams had to manually provision and mange servers, making it difficult to handle sudden spikes in traffic
 
 Solution - Kubernetes enables automated scaling through Horizontal Pod Autoscaler (HPA and Cluster Autoscaler)
+
+Unreliable deployments:
+
