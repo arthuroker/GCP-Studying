@@ -25,6 +25,6 @@ Solution - Ensures reliable, consistent deployments using declarative configurat
 
 Lack of portability:
 
-Before - Applications were tightly coupled with infrastructure, thus cha
+Before - Applications were tightly coupled with infrastructure, thus challenging to move them
 
-Solution - 
+Solution - Uses containerization that provides a consistent runtime environment, enabling transportation across different environments 
