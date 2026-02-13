@@ -33,3 +33,7 @@ Solution - Uses containerization that provides a consistent runtime environment,
 
 Managed Kubernetes service which allows you to run, manage, and scale containerized applications using GCP infrastructure
 
+*Benefits of GKE*
+
+1. Uses open source K8S/Kubernetes, thus compatible with other platforms
+2. 
