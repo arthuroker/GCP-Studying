@@ -21,4 +21,10 @@ Unreliable deployments:
 
 Before: Applications could fail because they have different environments across servers
 
-Solution - Ensures reliable, consistent deploymentsusing declaritive
+Solution - Ensures reliable, consistent deployments using declarative configurations, rolling updates, and self-healing mechanisms
+
+Lack of portability:
+
+Before - Applications were tightly coupled with infrastructure, thus cha
+
+Solution - 
