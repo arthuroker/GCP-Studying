@@ -36,4 +36,6 @@ Managed Kubernetes service which allows you to run, manage, and scale containeri
 *Benefits of GKE*
 
 1. Uses open source K8S/Kubernetes, thus compatible with other platforms
-2. 
+2. Simplifies scaling, updates, and maintenance
+3. Integrates with the rest of GCP
+4. Good for complex micro-service architectures
