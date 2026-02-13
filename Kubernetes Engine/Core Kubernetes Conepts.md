@@ -9,4 +9,7 @@ Worker machine within a cluster that can run multiple pods
 
 *Pod*
 
-Smallest deployable unit in Kubernetes, can contain one or more containers
+Smallest deployable unit in Kubernetes, can contain one or more containers. When there are multiple identical pods, they are called replicas
+
+*Configuration*
+
