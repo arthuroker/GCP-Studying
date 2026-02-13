@@ -27,4 +27,9 @@ Lack of portability:
 
 Before - Applications were tightly coupled with infrastructure, thus challenging to move them
 
-Solution - Uses containerization that provides a consistent runtime environment, enabling transportation across different environments 
+Solution - Uses containerization that provides a consistent runtime environment, enabling transportation across different environments
+
+*Intro to GKE*
+
+Managed Kubernetes service which allows you to run, manage, and scale containerized applications using GCP infrastructure
+
