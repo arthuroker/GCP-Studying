@@ -18,3 +18,4 @@ Configuration is managed through a file called the Kubernetes manifest
 *Kubernetes Manifest*
 
 a file, usually YAML or JSON, that defines the desired state of objects (pods, services, deployments, etc) in a Kubernetes cluster
+
