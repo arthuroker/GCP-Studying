@@ -15,4 +15,4 @@ Can scale based on either CPU/memory or custom metrics
 
 Some stateful workloads incompatible
 
-*Autoscaler*
+*Vertical Autoscaler*
