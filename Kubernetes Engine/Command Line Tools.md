@@ -29,4 +29,9 @@ Example commands:
 gcloud container clusters get-credentials {cluster_name}
 	retrieving credentials and context
 
-gcloud container clusters update {Cluster_name} -enable-autoscaling -min-nodes={min} ma
+gcloud container clusters update {Cluster_name} -enable-autoscaling -min-nodes={min} -max-nodes={Max}
+	Enables autoscaling
+
+*kubemci*
+
+Tool by Google to configure multi-cluster Ingres
