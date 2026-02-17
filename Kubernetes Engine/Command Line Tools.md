@@ -26,4 +26,7 @@ Used for:
 
 Example commands:
 
-gcloud container clusters get
+gcloud container clusters get-credentials {cluster_name}
+	retrieving credentials and context
+
+gcloud container clusters update {Cluster_name} -enable-autoscaling -min-nodes={min} ma
