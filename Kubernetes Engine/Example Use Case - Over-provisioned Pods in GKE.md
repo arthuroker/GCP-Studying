@@ -15,4 +15,4 @@ You'll have unnecessary costs
 
 Vertical pod autoscaler (in auto mode)
 
-Number of pod
+Number of pods maintained for throughput. This is why Horizontal Pod Autoscaler is not appropriate
