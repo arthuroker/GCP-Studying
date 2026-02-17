@@ -15,3 +15,4 @@ You'll have unnecessary costs
 
 Vertical pod autoscaler (in auto mode)
 
+Number of pod
