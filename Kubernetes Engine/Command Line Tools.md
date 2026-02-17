@@ -42,5 +42,7 @@ Can configure a HTTP(S) load balancer from Cloud Load Balancing
 
 *Helm*
 
-K
+Kubernetes package manager
+
+Simplifies app deployment and management by using pre-configured templates called "Helm Charts"
 
