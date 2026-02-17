@@ -16,3 +16,9 @@ Can scale based on either CPU/memory or custom metrics
 Some stateful workloads incompatible
 
 *Vertical Autoscaler*
+
+Scales the compute and memory of individual pods based on their usage
+
+May restart pods
+
+Cannot be done based on custom metrics
