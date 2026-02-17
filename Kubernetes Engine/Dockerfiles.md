@@ -15,4 +15,10 @@ Docker image = blueprint for the container
 2. Build Docker Image
 3. Push Docker image to Artifact registry
 4. Create K8s Deployment manifest that references location of image
-5. Use kubetl to reference tDeployment Manifest file and deploy
+5. Use kubectl to reference tDeployment Manifest file and deploy
+
+*Optimizing Dockerfiles*
+
+1. Using lightweight base images
+2. Minimize final image size
+3. 
