@@ -33,4 +33,7 @@ Can Specify:
 
 1. Number of Pod replicas
 2. Container image
-	Image Pull 
+	Image Pull Policy: IfNotPresent ensures that Kubernetes first checks if the image is already available on the node
+3. Ports to use
+4. Update strategy
+
