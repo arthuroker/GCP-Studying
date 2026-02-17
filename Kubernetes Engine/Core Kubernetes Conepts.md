@@ -37,3 +37,11 @@ Can Specify:
 3. Ports to use
 4. Update strategy
 
+
+*Control Plane*
+
+3 components:
+
+1. API server
+2. Scheduler
+3. Controller Manager
