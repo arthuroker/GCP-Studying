@@ -21,4 +21,5 @@ Docker image = blueprint for the container
 
 1. Using lightweight base images
 2. Minimize final image size
-3. 
+3. Leverage layer caching
+4. 
