@@ -23,6 +23,14 @@ Blueprint for what things should look like
 
 *Deployments*
 
-A high-level Kubernetes resource that manages scaling, rolling updates, and high availability of application instances, allowing services to scale independetly with seamless updates
+A high-level Kubernetes resource that manages scaling, rolling updates, and high availability of application instances, allowing services to scale independently with seamless updates
 
-Ideal for state
+Ideal for stateless services
+
+Use a Deployment for each service
+
+Can Specify:
+
+1. Number of Pod replicas
+2. Container image
+	Image Pull 
