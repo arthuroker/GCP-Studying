@@ -1,5 +1,5 @@
 
-*Scanario*
+*Scenario*
 
 GKE Cluster with 5 pods
 
