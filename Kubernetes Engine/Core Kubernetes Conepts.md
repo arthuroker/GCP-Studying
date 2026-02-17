@@ -49,3 +49,12 @@ Coordinates all processes, manages workloads, ands ensures desired state of clus
 1. API server (interface)
 2. Scheduler
 3. Controller Manager (ie scaling workloads and replica sets)
+
+
+
+*Node pools*
+
+Within a single cluster, you can create node pools with different machine types for difference services/tasks
+
+Good for: tailoring workloads for specific needs
+
