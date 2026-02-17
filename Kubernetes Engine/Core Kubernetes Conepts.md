@@ -40,8 +40,12 @@ Can Specify:
 
 *Control Plane*
 
+Central management layer of a K8s cluster
+
+Coordinates all processes, manages workloads, ands ensures desired state of cluster is maintained
+
 3 components:
 
-1. API server
+1. API server (interface)
 2. Scheduler
-3. Controller Manager
+3. Controller Manager (ie scaling workloads and replica sets)
