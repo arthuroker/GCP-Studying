@@ -21,3 +21,8 @@ a file, usually YAML or JSON, that defines the desired state of objects (pods, s
 
 Blueprint for what things should look like
 
+*Deployments*
+
+A high-level Kubernetes resource that manages scaling, rolling updates, and high availability of application instances, allowing services to scale independetly with seamless updates
+
+Ideal for state
