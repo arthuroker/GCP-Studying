@@ -34,4 +34,9 @@ gcloud container clusters update {Cluster_name} -enable-autoscaling -min-nodes={
 
 *kubemci*
 
-Tool by Google to configure multi-cluster Ingres
+Tool by Google to configure multi-cluster Ingress for K8s
+
+Designed to manage HTTP(S) traffic across multiple K8s clusters
+
+Can configure a HTTP(S) load balancer from Cloud Load Bl
+
