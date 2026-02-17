@@ -38,5 +38,5 @@ Tool by Google to configure multi-cluster Ingress for K8s
 
 Designed to manage HTTP(S) traffic across multiple K8s clusters
 
-Can configure a HTTP(S) load balancer from Cloud Load Bl
+Can configure a HTTP(S) load balancer from Cloud Load Balancing
 
