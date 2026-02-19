@@ -1,7 +1,9 @@
 
 *Headless*
 
+No virtual IP or use DNS
 
+Exposes Pod IP addresses
 
 
 *Cluster IP*
