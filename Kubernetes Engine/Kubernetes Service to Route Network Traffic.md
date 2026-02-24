@@ -18,4 +18,7 @@ Includes DNS-based addressing fro seamless communication and scaling, applicatio
 
 *External*
 
-*Node Por*
+*Node Port*
+
+Opens a specific port on all cluster nodes, allowing external access via Node IP and port. Often used with Cloud Load Balancer
+
