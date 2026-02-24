@@ -31,3 +31,8 @@ Creates external IP address, automatically sets up load balancer to route traffi
 *External Name*
 
 Maps app to a DNS alias to look like it's hosted at another domain
+
+*Ingress*
+
+Adds sophisticated HTTPS gateway/traffic management
+
