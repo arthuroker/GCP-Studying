@@ -22,3 +22,8 @@ Includes DNS-based addressing fro seamless communication and scaling, applicatio
 
 Opens a specific port on all cluster nodes, allowing external access via Node IP and port. Often used with Cloud Load Balancer
 
+Not ideal, doesn't have advanced features
+
+*Load Balancer*
+
+Creates external IP address, automatically sets up load balancer to route traffic to app
