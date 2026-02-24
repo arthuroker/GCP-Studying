@@ -27,3 +27,7 @@ Not ideal, doesn't have advanced features
 *Load Balancer*
 
 Creates external IP address, automatically sets up load balancer to route traffic to app
+
+*External Name*
+
+Maps app to a DNS alias to look like it's hosted at another domain
