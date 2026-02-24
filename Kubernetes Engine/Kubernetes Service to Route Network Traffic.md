@@ -36,3 +36,5 @@ Maps app to a DNS alias to look like it's hosted at another domain
 
 Adds sophisticated HTTPS gateway/traffic management
 
+For fine grained control
+
