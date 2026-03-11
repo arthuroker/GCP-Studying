@@ -9,4 +9,5 @@ Can be used to provide a public IP and HTTPS access to your GKE application
 
 Two clusters in different regions by having a load balancer that can reach both
 
-Route traffic across multiple reagions, allows for ow-latency and high availibility
+Route traffic across multiple regions, allows for ow-latency and high availability
+
