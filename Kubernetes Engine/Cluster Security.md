@@ -25,3 +25,4 @@ Managed GCP service that allows private GKE workloads initiate outbound communic
 
 *Private Google Access*
 
+Allows private GKE workloads to access Google APIs
