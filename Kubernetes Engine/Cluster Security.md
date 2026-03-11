@@ -17,3 +17,5 @@ Allows you to restrict access to the control plane to authorized IPs only
 
 Ensures only specific networks can communicate with the control plane
 
+Can work with public and private clusters
+
