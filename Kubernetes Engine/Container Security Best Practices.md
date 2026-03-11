@@ -7,3 +7,5 @@ Container images are stored in Container Registry or Artifact registry are scann
 
 Are cryptographic signatures that serve as proof that a container image meets predefined security or compliance requirements
 
+Typically generated from a CI/CD pipeline
+	Usual flow for a container image: Build -> Test -> Scan
