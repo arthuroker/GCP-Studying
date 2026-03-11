@@ -21,4 +21,4 @@ Can work with public and private clusters
 
 *Cloud NAT (Network Address Translation)*
 
-Managed GCP service that allows private GKE workloadsto initiate outbound
+Managed GCP service that allows private GKE workloads initiate outbound communications to the internet without being assigned public IPs
