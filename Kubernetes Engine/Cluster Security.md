@@ -11,4 +11,9 @@ Where the control plane is isolated and only accessed via configured access rule
 
 Reduces the attack surface
 
+*Master authorized networks*
+
+Allows you to restrict access to the control plane to authorized IPs only
+
+Ensures only specific networks can communicate with the control plane
 
