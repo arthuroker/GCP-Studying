@@ -9,8 +9,9 @@ Should store these in Artifact Registry
 Do not modify already published images
 	Should create a new version instead
 
-Ensures consistency, reliability, and rollbackability
+Ensures consistency, reliability, and rollback-ability
 
+*Separating environments via Namespaces*
 
 
 
