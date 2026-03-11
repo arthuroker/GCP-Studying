@@ -7,6 +7,9 @@ Should always use specific version tags for containers
 Should store these in Artifact Registry
 
 Do not modify already published images
+	Should create a new version instead
+
+
 
 
 
