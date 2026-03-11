@@ -13,7 +13,7 @@ Ensures consistency, reliability, and rollback-ability
 
 *Separating environments via Namespaces*
 
-
+Allows us to logically divide and isolate resources within a single cluster
 
 
 
