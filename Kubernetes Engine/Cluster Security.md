@@ -19,3 +19,6 @@ Ensures only specific networks can communicate with the control plane
 
 Can work with public and private clusters
 
+*Cloud NAT (Network Address Translation)*
+
+Managed GCP service that allows private GKE workloadsto initiate outbound
