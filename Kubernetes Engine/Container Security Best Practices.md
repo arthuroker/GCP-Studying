@@ -12,4 +12,6 @@ Typically generated from a CI/CD pipeline
 
 *Binary authorization*
 
-Managed GCP service
+Managed GCP service, ensures only trusted image containers are deployed
+
+Binary because it can be applied 
