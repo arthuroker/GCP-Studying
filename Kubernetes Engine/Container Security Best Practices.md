@@ -14,4 +14,9 @@ Typically generated from a CI/CD pipeline
 
 Managed GCP service, ensures only trusted image containers are deployed
 
-Binary because it can be applied 
+Binary because it can be applied to any binary executable
+
+Integrates seamlessly with GKE and other GCP services
+
+User is the one that defines policies that specify criteria for authorization for deployment
+
