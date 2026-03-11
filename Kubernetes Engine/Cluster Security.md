@@ -29,4 +29,6 @@ Allows private GKE workloads to access Google APIs and services without requirin
 
 *Workload Identity*
 
-Allows Kubernetes workloads to securely authenticate as service accounts without needing to manage long-lived credentials
+Allows Kubernetes workloads to securely authenticate as service accounts without needing to manage long-lived credentials such as service account keys (which would otherwise introduce more managing of keys and increase exposure)
+
+
