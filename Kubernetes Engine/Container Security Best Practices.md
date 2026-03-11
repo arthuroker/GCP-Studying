@@ -19,4 +19,6 @@ Binary because it can be applied to any binary executable
 Integrates seamlessly with GKE and other GCP services
 
 User is the one that defines policies that specify criteria for authorization for deployment
+	If it doesn't, binary authorization blocks the image container from running
 
+Usual flow: 1) Define policy 2) Policy check 
