@@ -4,4 +4,9 @@
 Should always use specific version tags for containers
 	Ensures predictability
 
-Shou
+Should store these in Artifact Registry
+
+Do not modify already published images
+
+
+
