@@ -15,5 +15,5 @@ Ensures consistency, reliability, and rollback-ability
 
 Allows us to logically divide and isolate resources within a single cluster
 
-
+An actual field in the Kubernetes manifest
 
