@@ -9,3 +9,6 @@ Nodes in the cluster can only communicate with each other and other resources in
 
 Where the control plane is isolated and only accessed via configured access rules
 
+Reduces the attack surface
+
+
