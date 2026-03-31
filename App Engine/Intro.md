@@ -13,3 +13,8 @@ Each project can only host *one* app engine application
 
 App engine apps are regional and cannot be changed
 
+*Configuration*
+
+Uses a YAML file that specifies settings such as runtime, env variables, and scaling paramteres
+
+
