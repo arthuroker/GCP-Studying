@@ -1,2 +1,5 @@
 
-Motivation - we want to use a load balancer, but these are not tpyically used for a serverless op
+Motivation - we want to use a load balancer, but these are not typically used for a serverless operation
+
+Load balancer will direct traffic to the NEG which acts as an intermediary
+
