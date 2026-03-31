@@ -3,4 +3,6 @@ Fully managed Platform as a Service that allows developers to build, deploy, and
 
 There are configuration files to define app settings
 
-Supports multiple languages and fram
+Supports multiple programming languages and frameworks
+
+Essentially builds the container for you
