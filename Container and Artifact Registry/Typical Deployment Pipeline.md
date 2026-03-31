@@ -9,3 +9,5 @@
 
 *Storage object viewer* - role is sufficient for a user or service account to pull images from Container Registry
 
+*Artifact registry reader/viewer* - needed to pull images from Artifact registry
+
