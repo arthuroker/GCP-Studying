@@ -13,4 +13,5 @@ Eliminates the need for server management
 
 1) Intermittent traffic
 2) Stateless containers
-3) Microser
+3) Microservice architectures
+4) APIs
