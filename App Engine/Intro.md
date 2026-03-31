@@ -15,6 +15,12 @@ App engine apps are regional and cannot be changed
 
 *Configuration*
 
-Uses a YAML file that specifies settings such as runtime, env variables, and scaling paramteres
+Uses a YAML file that specifies settings such as runtime, env variables, and scaling parameters
+
+*Automatic Scaling*
+
+Can configure min and max instances
+
+Does not scale to zero
 
 
