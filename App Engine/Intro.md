@@ -5,4 +5,6 @@ There are configuration files to define app settings
 
 Supports multiple programming languages and frameworks
 
-Essentially builds the container for you
+Essentially builds the container for you at a higher layer of abstraction
+
+
