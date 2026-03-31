@@ -11,4 +11,5 @@ Essentially builds the container for you at a higher layer of abstraction
 
 Each project can only host *one* app engine application
 
-App engine apps are regional
+App engine apps are regional and cannot be changed
+
