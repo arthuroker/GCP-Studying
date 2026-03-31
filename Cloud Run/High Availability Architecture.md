@@ -1,2 +1,2 @@
 
-User --> Load Balancer --->.     ----> Cloud Run Serv
+User --> Load Balancer ---> NEG ----> Cloud Run Service in different areas
