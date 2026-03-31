@@ -9,3 +9,8 @@ Good for:
 
 Eliminates the need for server management
 
+*Common Use cases*
+
+1) Intermittent traffic
+2) Stateless containers
+3) Microser
