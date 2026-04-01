@@ -4,5 +4,6 @@
 1) Changes to Cloud Storage
 2) Pub/Sub messages
 3) HTTP request
-4) 
+
+Also *EventARC*
 
