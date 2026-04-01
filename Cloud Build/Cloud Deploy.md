@@ -13,5 +13,11 @@ Watches Artifact registry for new deployments
 
 Automatic promotion after approvals
 
-Rollback 
+Rollback capabilities
+
+Audit trail
+
+Integrates with Cloud Build for a full CI/CD pipeline
+
+
 
