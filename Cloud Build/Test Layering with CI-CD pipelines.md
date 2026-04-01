@@ -6,3 +6,7 @@
 3) Staging (core functionality tests - can users perform the basic functions of the app?)
 4) Production (user traffic and feedback - are business requirements being met?)
 
+From 1 to 4
+
+Cheaper and faster to Slow and more expensive
+
