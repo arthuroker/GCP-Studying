@@ -15,5 +15,7 @@ Each step specifies:
 
 Example = ${ProjectID}
 
-Allows you to inject specific variables at runtime
+Allows you to inject specific variables at runtime and use different configurations depending on the environment
+
+
 
