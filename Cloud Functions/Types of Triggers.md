@@ -5,5 +5,7 @@
 2) Pub/Sub messages
 3) HTTP request
 
-Also *EventARC*
+Also *EventARC* expands the number of triggers to many other specific events cross GCP services
+
+
 
