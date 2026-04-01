@@ -11,3 +11,5 @@ Each step specifies:
 2) Args = commands and parameters that are run in the step
 3) Environment variables = optional variables to customize the step
 
+*Substitution variables*
+
