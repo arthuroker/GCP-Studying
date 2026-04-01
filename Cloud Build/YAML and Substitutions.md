@@ -9,4 +9,5 @@ Each step specifies:
 
 1) Name = Docker image used to execute the step
 2) Args = commands and parameters that are run in the step
-3) 
+3) Environment variables = optional variables to customize the step
+
