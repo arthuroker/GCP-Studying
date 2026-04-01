@@ -7,5 +7,9 @@
 
 Also *EventARC* expands the number of triggers to many other specific events cross GCP services
 
+*Example*
 
+Log-based triggers
+
+Services generate logs -> Cloud Logging -> Eventarc trigger based on
 
