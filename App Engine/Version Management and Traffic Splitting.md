@@ -7,4 +7,5 @@ Enables A/B testing and gradual rollouts
 
 Can test new features and rollback
 
-Uses the --splits option 
+Uses the --splits option to handle percentages
+
