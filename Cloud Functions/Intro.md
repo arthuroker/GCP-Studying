@@ -16,7 +16,10 @@ GCP equivalent as Lambda AWS
 
 1) Want to execute code automatically in response to specific events
 2) Creating lightweight APIs
-3) Sporadic or workloads
+3) When cost is a consideration + sporadic workloads
+4) Cost development focus
+
+
 
 
 
