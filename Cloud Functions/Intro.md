@@ -10,7 +10,11 @@ Automatic scaling (limits on execution time and memory/CPU)
 
 Scales to zero
 
-GCP equivalent a
+GCP equivalent as Lambda AWS
+
+*Common Use cases*
+
+1) Want to execute code 
 
 
 
