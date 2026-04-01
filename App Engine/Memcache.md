@@ -6,4 +6,5 @@ In-memory caching service that improves app performance by temporarily storing f
 *Two modes*
 
 1) Dedicated memcache: provides exclusive resources for better performance and reliability 
-2) 
+2) Shared memcache: cost-effective but prone to eviction (making space for new data) under load
+
