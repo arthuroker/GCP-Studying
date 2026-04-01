@@ -1,4 +1,5 @@
 
 *Rolling back to a previous stable version*
 
-Each deploym
+Each deployment of a Cloud Functions are versioned
+
