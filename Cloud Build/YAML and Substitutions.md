@@ -13,9 +13,11 @@ Each step specifies:
 
 *Substitution variables*
 
-Example = ${ProjectID}
+Example = ${ProjectID}, ${BranchName}
 
 Allows you to inject specific variables at runtime and use different configurations depending on the environment
+
+Simplifies multi-environment deployment
 
 
 
