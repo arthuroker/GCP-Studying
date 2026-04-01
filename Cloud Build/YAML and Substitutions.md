@@ -13,3 +13,7 @@ Each step specifies:
 
 *Substitution variables*
 
+Example = ${ProjectID}
+
+Allows you to inject specific variables at runtime
+
