@@ -11,5 +11,5 @@ Also *EventARC* expands the number of triggers to many other specific events cro
 
 Log-based triggers
 
-Services generate logs -> Cloud Logging -> Eventarc trigger based on
+Services generate logs -> Cloud Logging -> Eventarc trigger based on a specific log filter -> Runs a Cloud Function
 
