@@ -6,6 +6,9 @@ Require authentication on default
 
 To authenticate a call, the caller function generates an ID token and includes it in the authorization header of the HTTP request
 
-Best pracitce to 
+Best practice to assign a dedicated service account for functions that need to invoke other functions
+	This follows principle of least privilege and zero trust model of security
+
+
 
 
