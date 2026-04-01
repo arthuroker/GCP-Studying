@@ -12,5 +12,9 @@ Can have custom build steps with containerized tools
 
 *Jenkins*
 
-OSS version of Cloud Build
+OSS version of Cloud Build, sort of
+
+Requires setup, configuration, and maintenence
+
+
 
