@@ -13,4 +13,5 @@ Steps
 
 1) Verify dependencies
 2) Update dependencies
-3) 
+3) Package and test the application locally to confirm things work
+4) 
