@@ -54,3 +54,5 @@ Consistent low latency performance for tasks like:
 *Partner Interconnect* - goes through a 3rd party before GCP
 	Good for lower bandwidth is acceptable, or need geographic flexibility if you are not near a GCP edge location
 
+*Cross-cloud interconnect* - direct connection between GCP and another provider
+	Good for multi-cloud
