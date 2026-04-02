@@ -46,3 +46,5 @@ Consistent low latency performance for tasks like:
 3) Real-time processing
 
 
+*Types of Cloud Interconnect*
+
