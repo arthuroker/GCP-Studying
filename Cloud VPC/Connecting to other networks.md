@@ -25,5 +25,9 @@ Connects an on-prem network, another cloud provider network, or a remote office 
 
 Use cases:
 
-1) Hybrid
+1) Hybrid (on-prem to Cloud VPC)
+2) Multi-cloud (VPC from another provider to Cloud VPC)
+3) Remote office (remote works to Cloud VPC)
+
+
 
