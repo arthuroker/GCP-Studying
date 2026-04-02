@@ -5,3 +5,9 @@ Shared VPC allows you to extend he network from one project (host project) to ot
 
 The host project should be dedicated to network resource control only
 
+*Benefits*
+
+1) Centralized network management
+2) Unified security policies
+3) Cost efficiency
+
