@@ -20,4 +20,4 @@ Is version controlled
 
 Can ensure consistency, reducing human error and deployment time
 
-OSS tools: 
+OSS tools: Terraform, Ansible
