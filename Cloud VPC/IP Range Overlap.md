@@ -12,4 +12,4 @@ These networks need to be integrated
 
 A and B have some overlap
 
-
+We need to establish a connection between the nwtworks while we recongifure the range
