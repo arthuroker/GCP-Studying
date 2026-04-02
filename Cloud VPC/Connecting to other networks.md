@@ -35,3 +35,11 @@ Use cases:
 Separate GCP service
 
 Offers a secure, private, high bandwidth connection between networks
+	Usually on-prem to GCP
+
+Bypasses public internet
+
+Consistent low latency performance for tasks like:
+
+1) Large-scale data replication
+2) 
