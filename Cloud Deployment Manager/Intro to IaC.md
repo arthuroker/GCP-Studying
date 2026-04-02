@@ -9,8 +9,13 @@ Time consuming and error prone, difficult to scale and replicate
 
 *IaC*
 
-Config file in something like YAML
+Config file in something like YAML, Jinja2, JSON, Python
 	Define the desired state of the infrastructure
 
 IaC tool such as Terraform that processes them and translates the instructions/configurations into actions that provision and manage the necessary infrastructure components (networking, storage, databases, etc.)
 
+Abstracts infrastructure details as software
+
+Is version controlled 
+
+Can ensure 
