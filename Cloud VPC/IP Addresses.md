@@ -18,4 +18,9 @@ Typical Private IP ranges
 
 10.0.0.0/8
 	Often used in large private networks or corporate environments
-	16.8 million adresse
+	16.8 million addresses
+
+172.16.0.0/12
+	Small to medium enterprises
+	 1 million adresses
+
