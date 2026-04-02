@@ -41,7 +41,7 @@ Bypasses public internet
 
 Consistent low latency performance for tasks like:
 
-1) Large-scale data replication
+1) Large-scale data replication (eg. Datastream)
 2) Disaster recovery
 3) Real-time processing
 
