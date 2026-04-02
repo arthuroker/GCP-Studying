@@ -34,7 +34,12 @@ Typical Private IP ranges
 
 X.X.X.X/Y
 
-Number before the slash - starting IP addresses
-N
+*Number before the slash* - starting IP addresses
+*Numbers after the slash* - number of possible IP addresses
 
+Prefix determines the max number of addresses in that range
+
+How to calculate it:
+
+1
 
