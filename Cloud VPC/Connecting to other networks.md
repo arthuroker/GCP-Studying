@@ -21,5 +21,9 @@ Can connect intra or inter organization in GCP
 
 *Cloud VPN*
 
-Connects an on-prem network, another cloud provider network, or a remote office network to a Cloud VPC in GCP. Encrypted, but uses public interne
+Connects an on-prem network, another cloud provider network, or a remote office network to a Cloud VPC in GCP. Encrypted, but uses public internet
+
+Use cases:
+
+1) Hybrid
 
