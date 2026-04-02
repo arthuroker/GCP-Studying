@@ -27,7 +27,11 @@ Use cases:
 
 1) Hybrid (on-prem to Cloud VPC)
 2) Multi-cloud (VPC from another provider to Cloud VPC)
-3) Remote office (remote works to Cloud VPC)
+3) Remote office (remote workers to Cloud VPC)
 
 
+*Cloud Interconnect*
 
+Separate GCP service
+
+Offers a secure, private, high bandwidth connection between networks
