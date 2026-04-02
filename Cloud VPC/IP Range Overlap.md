@@ -12,4 +12,6 @@ These networks need to be integrated
 
 A and B have some overlap
 
-We need to establish a connection between the nwtworks while we recongifure the range
+We need to establish a connection between the networks while we reconfigure the range. We can do that with Cloud VPN to do this
+
+
