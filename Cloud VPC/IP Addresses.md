@@ -22,5 +22,10 @@ Typical Private IP ranges
 
 172.16.0.0/12
 	Small to medium enterprises
-	 1 million adresses
+	 1 million addresses
+
+192.168.0.0/16
+	Home or small offices
+	66,536 addresses
+
 
