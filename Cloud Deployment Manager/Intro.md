@@ -9,4 +9,8 @@ Can handle repeatable deployments and updates of complex environments with minim
 
 *Exam Tip*
 
-Select Deployment Manager when question mentions 
+Select Deployment Manager when question mentions:
+
+1) automating a deployment and quickly/easily as possible
+2) Replicating an existing environment or configuration
+
