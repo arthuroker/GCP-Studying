@@ -18,4 +18,6 @@ Abstracts infrastructure details as software
 
 Is version controlled 
 
-Can ensure 
+Can ensure consistency, reducing human error and deployment time
+
+OSS tools: 
