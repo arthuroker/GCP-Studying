@@ -41,5 +41,7 @@ Prefix determines the max number of addresses in that range
 
 How to calculate it:
 
-1
+1) Identify the number after the slash
+2) Subtract it from 32 (32 - Y)
+3) 2 to the power of the previous result
 
