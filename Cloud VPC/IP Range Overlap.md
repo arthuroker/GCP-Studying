@@ -14,4 +14,6 @@ A and B have some overlap
 
 We need to establish a connection between the networks while we reconfigure the range. We can do that with Cloud VPN to do this
 
+Carefully need to update network B to its new addresses
+
 
