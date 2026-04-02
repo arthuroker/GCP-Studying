@@ -13,3 +13,6 @@ The host project should be dedicated to network resource control only
 
 Note: service accounts in the service project must be granted compute.networkUser role on the shared VPC subnetworks in the host project to access network resources
 
+*VPC Peering*
+
+Allows you to connect two VPC networks so they can communicate using internal, private IPs over a low-latencyand high badn
