@@ -14,3 +14,8 @@ Specific ranges of IP addresses used within private networks.
 
 The establishment of these private IP addresses, through VPC and subnetworks, is what allows seamless internal communication
 
+Typical Private IP ranges
+
+10.0.0.0/8
+	Often used in large private networks or corporate environments
+	16.8 million adresse
