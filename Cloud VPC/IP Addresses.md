@@ -29,3 +29,12 @@ Typical Private IP ranges
 	66,536 addresses
 
 
+
+*CIDR notation (IPv4)*
+
+X.X.X.X/Y
+
+Number before the slash - starting IP addresses
+N
+
+
