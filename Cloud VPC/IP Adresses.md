@@ -1,3 +1,0 @@
-
-*Private IP addresses*
-
