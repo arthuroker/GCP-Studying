@@ -51,4 +51,6 @@ Consistent low latency performance for tasks like:
 *Dedicated Interconnect* - direct physical connection from on-prem to GCP
 	Good for high bandwidth, low-latency, and private use cases (disaster recovery and large-scale data replication)
 
-*Partner Interconnect* - 
+*Partner Interconnect* - goes through a 3rd party before GCP
+	Good for lower bandwidth is acceptable, or need geographic flexibility if you are not near a GCP edge location
+
