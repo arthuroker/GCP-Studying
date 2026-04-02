@@ -48,3 +48,4 @@ Consistent low latency performance for tasks like:
 
 *Types of Cloud Interconnect*
 
+*Dedicated Interconnect* - 
