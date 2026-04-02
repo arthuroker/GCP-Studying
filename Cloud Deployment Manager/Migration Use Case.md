@@ -4,5 +4,5 @@
 Imagine an on-prem environment with 
 
 Apache Web Server
-PostgresSQL - 
+PostgresSQL - Database
 Jenkins - CI/CD
