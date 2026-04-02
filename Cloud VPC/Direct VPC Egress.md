@@ -7,3 +7,7 @@ The Google Managed Network (for serverless resources) is separate from a Cloud V
 
 *Direct VPC Egress versus Serverless VPC Access*
 
+Direct - A serverless service is given an IP address within the VPC, no connector needed
+
+Serverless - Outside the VPC, also there is a connector
+
