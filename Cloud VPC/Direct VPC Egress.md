@@ -11,3 +11,7 @@ Direct - A serverless service is given an IP address within the VPC, no connecto
 
 Serverless - Outside the VPC, also there is a connector
 
+Similar services, but different
+
+Direct VPC Egress is the increasingly popular option
+
