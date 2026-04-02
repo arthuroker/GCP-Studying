@@ -15,4 +15,7 @@ Note: service accounts in the service project must be granted compute.networkUse
 
 *VPC Peering*
 
-Allows you to connect two VPC networks so they can communicate using internal, private IPs over a low-latencyand high badn
+Allows you to connect two VPC networks so they can communicate using internal, private IPs over a low-latency and high bandwidth connection
+
+Can connect intra or inter or
+
