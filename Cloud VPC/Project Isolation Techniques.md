@@ -6,3 +6,6 @@ Creating separate VPCs in each project and ensuring there is no peering or routi
 *VPC service Controls (Service layer isolation)*
 
 Create a security perimeter around each project, preventing data exfiltration and ensuring resource cannot access sources in another project. Works at the service layer
+
+Access level setting allows access based on specified condition (IP range, identity, device attributes)
+
