@@ -12,4 +12,5 @@ IPv6
 Specific ranges of IP addresses used within private networks.
 	Like homes, offices, or cloud environments
 
+The establishment of these private IP addresses, through VPC and subnetworks, is what allows seamless internal communication
 
