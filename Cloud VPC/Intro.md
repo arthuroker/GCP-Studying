@@ -9,3 +9,5 @@ Can have more than 1 VPC in a project
 
 *Subnets*
 
+Further subdivisions of a VPC to segment a network more granularly
+
