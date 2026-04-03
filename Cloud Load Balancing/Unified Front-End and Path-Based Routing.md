@@ -3,4 +3,6 @@
 
 Clients connection meets a load balancer with a DNS name and an SSL certificate
 
-Mut
+Multiple versions of the backend
+
+This structure simplifies how 
