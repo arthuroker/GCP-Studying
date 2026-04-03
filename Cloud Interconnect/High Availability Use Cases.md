@@ -19,3 +19,10 @@ On-prem with data to connect to a Cloud VPC
 
 Connect with dedicated interconnect
 
+Need to account for failures, so we also create a Cloud VPN connection
+	Does use internet, but encrypted
+
+Not as performant, but provides continuity
+
+Better failover than peering is
+
