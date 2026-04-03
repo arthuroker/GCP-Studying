@@ -15,4 +15,5 @@ It distributes traffic based on routing rules and health checks
 
 *Handling IPs*
 
-Cloud Load Balancing offers static IPs 
+Cloud Load Balancing offers static IPs for front-end configurations, ensuring a consistent IP or clients accessing your application 
+
