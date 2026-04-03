@@ -11,4 +11,4 @@ Full managed service that distributes traffic across multiple instances
 
 Integrates easily with other services like Cloud Armor
 
-
+It distributes traffic based on 
