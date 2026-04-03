@@ -9,3 +9,7 @@ High availability and redundancy VPN tunnel options, and gateways
 
 Good backup option when using Cloud interconnect
 
+Integrates with Cloud Router and Shared VPC
+
+*Use Cases*
+
