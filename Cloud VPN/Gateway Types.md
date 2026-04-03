@@ -7,4 +7,10 @@ Single zone deployment but you pick the region
 
 No automatic failover or backup tunnel
 
+99.9% SLA (service-level agreement)
+
+*High Availability Gateway*
+
+
+
 
