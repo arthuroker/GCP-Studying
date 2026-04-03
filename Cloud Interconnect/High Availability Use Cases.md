@@ -13,4 +13,5 @@ Called redundant geographic distribution
 
 *Different case*
 
-Want a 
+Need to connect a secure and reliable connection for data replication and backup as part of a disaster recovery plan
+
