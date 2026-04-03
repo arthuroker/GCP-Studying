@@ -11,6 +11,10 @@ No automatic failover or backup tunnel
 
 *High Availability Gateway*
 
+Consider two HA gateways in different zones
 
+Both connected to a VPC and have active tunnels to an on-prem
+
+Multi-zone deployment for redundan
 
 
