@@ -11,3 +11,6 @@ Within each, you set up connections in two colocation facilities in each metro a
 
 Called redundant geographic distribution
 
+*Different case*
+
+Want a 
