@@ -23,6 +23,10 @@ Different load balancers operate at different layers
 *Typical Layer 7 load balancers*
 
 1) HTTPS traffic
-2) Path-based/Content-bas
+2) Path-based/Content-based
+3) REST APIs
+4) SSL Termination
+5) Global Traffic
+6) 
 
 
