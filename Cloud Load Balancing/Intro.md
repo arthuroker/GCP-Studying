@@ -9,4 +9,6 @@ Full managed service that distributes traffic across multiple instances
 2) Scalability
 3) Optimized performance
 
-Integrates easily with oh
+Integrates easily with other services like Cloud Armor
+
+
