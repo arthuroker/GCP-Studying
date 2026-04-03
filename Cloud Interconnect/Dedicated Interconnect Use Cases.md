@@ -29,6 +29,11 @@ Dedicated interconnect between the database and Cloud SQL
 
 Datastream allows for sync in near real time, facilities change data capture
 
-*Another exmaple*
+*Another example*
 
-On-prem data center
+On-prem data center connected to VPC through a cloud VPN
+
+Fine for moderate data volumes
+
+As data volume increases, VPNs may fail
+
