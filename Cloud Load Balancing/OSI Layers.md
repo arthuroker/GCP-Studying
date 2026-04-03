@@ -8,4 +8,8 @@ Different load balancers operate at different layers
 *Common layers for load balancers*
 
 *Layer 4* - Transport Layer
-	Responsible for end-to-end communication 
+	Responsible for end-to-end communication and error handling
+	Balance traffic based on network layer info like IPs and ports
+	TCP UDP protocols
+
+
