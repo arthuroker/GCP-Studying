@@ -37,3 +37,6 @@ Fine for moderate data volumes
 
 As data volume increases, VPNs may fail
 
+*Solution*
+
+Switch to Dedicated Interconnect
