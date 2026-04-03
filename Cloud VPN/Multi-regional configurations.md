@@ -10,5 +10,8 @@ We want to connect these to an on-prem system or a different cloud environment
 
 We can put a gateway in each region
 
-Putting a gateway in each region reduces latenc
+Putting a gateway in each region reduces latency and egress costs
+
+Ensures high availability and resilience
+
 
