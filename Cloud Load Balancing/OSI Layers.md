@@ -27,6 +27,10 @@ Different load balancers operate at different layers
 3) REST APIs
 4) SSL Termination
 5) Global Traffic
-6) 
+6) Web Apps
+
+*SSL Termination*
+
+The process of decrypting incoming SSL traffic at the load balancer, 
 
 
