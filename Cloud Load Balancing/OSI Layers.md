@@ -11,8 +11,13 @@ Different load balancers operate at different layers
 	Responsible for end-to-end communication and error handling
 	Balance traffic based on network layer info like IPs and ports
 	TCP UDP protocols
+	If mentioned, use a TCP, UPD load balancer
+
 
 *Layer 7* - application layers
 	Where user-facing applications operate
 	Balances based on application-level info like HTTP headers and content
-	HTTP(S) 
+	HTTP(S), FTP, SMTP protocols
+	If mentioned,
+
+
