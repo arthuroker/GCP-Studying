@@ -25,4 +25,7 @@ Needs to use private IPs
 
 Use a Cloud VPC around Cloud SQL
 
-Dedicated inte
+Dedicated interconnect between the database and Cloud SQL
+
+Datastream allows for sync in near real time, facilities change data capture
+
