@@ -7,9 +7,12 @@ Bypasses public internet
 
 Consistent, low-latency performance for things like large-scale data replication, disaster recovery, and real-time processing
 
-*Dedicated Interconnect*
+*Dedicated Interconnect* -
+	Direct physical connection from on-prem to GCP
+	Best for high bandwidth, low latency, and direct private connectivity needs
 
-Direct physical connection from on-prem to GCP
+*Partner Interconnect* - goes through a 3rd party before GCP
+	Good for lower bandwidth is acceptable, or need geographic flexibility if you are not near a GCP edge location
 
-Best for high bandwidth, low latency, and direct private connectivity needs
-
+*Cross-cloud interconnect* - direct connection between GCP and another provider
+	Good for multi-cloud
