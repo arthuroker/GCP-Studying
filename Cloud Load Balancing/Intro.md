@@ -11,4 +11,8 @@ Full managed service that distributes traffic across multiple instances
 
 Integrates easily with other services like Cloud Armor
 
-It distributes traffic based on 
+It distributes traffic based on routing rules and health checks
+
+*Handling IPs*
+
+Cloud Load Balancing offers static IPs 
