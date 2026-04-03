@@ -34,3 +34,7 @@ Different load balancers operate at different layers
 The process of decrypting incoming SSL traffic at the load balancer, easing server load and simplifying certificate management
 
 
+*Types*
+![[Pasted image 20260403151555.png]]
+
+
