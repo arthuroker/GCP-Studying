@@ -31,6 +31,6 @@ Different load balancers operate at different layers
 
 *SSL Termination*
 
-The process of decrypting incoming SSL traffic at the load balancer, 
+The process of decrypting incoming SSL traffic at the load balancer, easing server load and simplifying certificate management
 
 
