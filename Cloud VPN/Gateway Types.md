@@ -15,6 +15,12 @@ Consider two HA gateways in different zones
 
 Both connected to a VPC and have active tunnels to an on-prem
 
-Multi-zone deployment for redundan
+Multi-zone deployment for redundancy, you pick the region
+
+99.99% SLA
+
+Little more expensive, mainly from the second tunnel
+
+
 
 
