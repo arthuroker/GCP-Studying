@@ -12,4 +12,7 @@ Different load balancers operate at different layers
 	Balance traffic based on network layer info like IPs and ports
 	TCP UDP protocols
 
-
+*Layer 7* - application layers
+	Where user-facing applications operate
+	Balances based on application-level info like HTTP headers and content
+	HTTP(S) 
