@@ -20,6 +20,9 @@ Different load balancers operate at different layers
 	HTTP(S), FTP, SMTP protocols
 	If mentioned, use a Global Load balancer or HTTPS load balancer
 
+*Typical Layer 7 load balancers*
 
+1) HTTPS traffic
+2) Path-based/Content-bas
 
 
