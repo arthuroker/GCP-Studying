@@ -18,6 +18,8 @@ Different load balancers operate at different layers
 	Where user-facing applications operate
 	Balances based on application-level info like HTTP headers and content
 	HTTP(S), FTP, SMTP protocols
-	If mentioned,
+	If mentioned, use a Global Load balancer or HTTPS load balancer
+
+
 
 
