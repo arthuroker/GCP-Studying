@@ -15,3 +15,7 @@ Called redundant geographic distribution
 
 Need to connect a secure and reliable connection for data replication and backup as part of a disaster recovery plan
 
+On-prem with data to connect to a Cloud VPC
+
+Connect with dedicated interconnect
+
