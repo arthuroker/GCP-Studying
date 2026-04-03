@@ -9,4 +9,9 @@ Public internet based transfers are not acceptable due to throughput and vulnera
 
 *Solutions*
 
-Estabi
+Establish a VPC around the GCP resources
+
+Setup a Dedicated Interconnect (allows for secure and fast speeds)
+
+*Another Example*
+
