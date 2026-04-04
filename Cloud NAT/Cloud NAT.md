@@ -23,4 +23,11 @@ aka a resource that initiates an outbound request
 
 1) Eliminates the attack surface
 2) Scales automatically
-3) 
+3) High availability
+4) Lower costs by reducing the amount of external IPs
+
+*Scenario*
+
+Organization rule: No external IPs on VMs
+
+So we can add 
