@@ -7,3 +7,5 @@ If an instance fails its health check, the load balancer stop sending traffic to
 
 Load balancer needs to be able to communicate to the backend services to perform these
 	Need to make sure the firewall must allow the probes to reach the instances
+	GCP has IP ranges for health checks
+
