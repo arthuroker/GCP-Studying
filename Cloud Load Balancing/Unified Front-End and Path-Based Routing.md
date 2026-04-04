@@ -29,4 +29,8 @@ Multi-region game micro-services
 
 Wants a single IP address with backend services deployed around the world
 
-Solution - Global 
+Solution - Global Load Balancer, unify frontend access and route to micro-services based on path
+
+*3*
+
+Mobile app 
