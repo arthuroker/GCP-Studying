@@ -30,4 +30,4 @@ aka a resource that initiates an outbound request
 
 Organization rule: No external IPs on VMs
 
-So we can add 
+So we can add a Cloud NAT 
