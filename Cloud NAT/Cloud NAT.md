@@ -19,4 +19,8 @@ aka a resource that initiates an outbound request
 2) Private GKE Clusters
 3) Serverless services within a VPC subnet
 
+*Benefits*
 
+1) Eliminates the attack surface
+2) Scales automatically
+3) 
