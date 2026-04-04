@@ -37,4 +37,4 @@ Mobile app update
 
 Wants to move to a new API while maintaining the legacy API
 
-Solution - Use one load balancer to handle both APIs, voiding DNS 
+Solution - Use one load balancer to handle both APIs, voiding DNS or SSL changes
