@@ -13,4 +13,11 @@ Direct requests based on the paths specified within the request
 
 Operates at the Layer 7 level
 
-Can serve multiple versions of a backend or different
+Can serve multiple versions of a backend or different micro-services
+
+*Use Case 1*
+
+Managing multiple API versions
+
+Solution - use a single load balancer with path-based routing to directs requests to the right server
+
