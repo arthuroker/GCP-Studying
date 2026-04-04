@@ -8,6 +8,9 @@ Layer 7 is best at this, because it has info like cookies and application data a
 
 1) Online shopping cart
 2) Chat applications
-3) 
+3) Websocket
+4) Gaming
+
+
 
 
