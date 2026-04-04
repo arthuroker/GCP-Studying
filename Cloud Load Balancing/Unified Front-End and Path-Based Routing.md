@@ -11,3 +11,6 @@ This structure simplifies how clients interact with the system
 
 Direct requests based on the paths specified within the request
 
+Operates at the Layer 7 level
+
+Can serve multiple versions of a backend or different
