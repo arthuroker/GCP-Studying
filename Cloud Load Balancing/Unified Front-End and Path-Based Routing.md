@@ -33,4 +33,8 @@ Solution - Global Load Balancer, unify frontend access and route to micro-servic
 
 *3*
 
-Mobile app 
+Mobile app update
+
+Wants to move to a new API while maintaining the legacy API
+
+Solution - Use one load balancer to handle both APIs, voiding DNS 
