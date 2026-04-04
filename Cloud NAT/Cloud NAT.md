@@ -17,4 +17,6 @@ aka a resource that initiates an outbound request
 
 1) VMs with private IPs
 2) Private GKE Clusters
-3) 
+3) Serverless services within a VPC subnet
+
+
