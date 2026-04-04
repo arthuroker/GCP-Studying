@@ -7,4 +7,6 @@ Enables compute resources without public IPs (usually VMs) to access the interne
 
 Imagine Compute Engine VMs in a subnet in a VPC
 
-We need to put Cloud NAT at the VPC level to translate the private IPs to a singl
+We need to put Cloud NAT at the VPC level to translate the private IPs to a single public IP that is assigned to the NAT gateway
+
+
