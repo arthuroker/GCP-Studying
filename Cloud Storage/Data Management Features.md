@@ -22,3 +22,7 @@ Deleting an object creates a delete marker, making the previous version non-curr
 
 ![[Pasted image 20260406154030.png]]
 
+*Retention policy*
+
+A bucket retention policy sets a retention period during which objects cannot be deleted or replaced
+
