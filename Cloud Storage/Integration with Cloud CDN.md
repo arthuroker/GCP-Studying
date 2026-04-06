@@ -17,5 +17,14 @@ CDN checks if the file is already cached at the nearest endpoint
 
 If cached, delivered, instead of the central storage bucket
 
-If not, gets from central sotrage 
+If not, gets from central storage bucket, then cache it in the endpoint
+
+*Good for*
+
+1) Global users
+2) High traffic volumes
+3) Minimize latency and egress costs
+
+
+
 
