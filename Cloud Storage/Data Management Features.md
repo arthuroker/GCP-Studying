@@ -44,4 +44,6 @@ Automatically transitions objects based on access patterns
 
 Must be enabled, off by default
 
-Still potentially more savings with Lifecycle rules, because for A
+Still potentially more savings with Lifecycle rules, because for Autoclass it starts out by storing everything at Standard
+
+
