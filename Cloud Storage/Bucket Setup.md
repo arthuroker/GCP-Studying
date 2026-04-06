@@ -17,3 +17,5 @@ However, it can be good for data accessed only 2-3 times per year if cost is a p
 
 *Regional* - When you need to keep data in a specific location (ie. compliance), need low latency in that location, generally cheaper
 
+*Multi-region* - US, EU, Asia. Access across multiple regions, highest availability and global access with minimal latency
+
