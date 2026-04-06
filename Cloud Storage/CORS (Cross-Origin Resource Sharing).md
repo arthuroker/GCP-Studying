@@ -5,4 +5,7 @@ Allows web applications hosted on one origin (domain) to access resources on a d
 
 Enables secure uploads/downloads with GCS client-side applications without routing through your backend
 
-Ensures that only authorized origins can interact with y
+Ensures that only authorized origins can interact with your bucket
+
+Sometimes used with signed URL for another layer of security
+
