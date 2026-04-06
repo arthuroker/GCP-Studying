@@ -19,5 +19,15 @@ We can group the different micro-services by tags, which then allows us to defin
 
 Multi-tier application
 
-UI Tier VMs, Business logic Tier V 
+UI Tier VMs, Business logic Tier VMs, Data Storage Tier VMs
+
+Problem - traffic control between tiers?
+
+VMs are tagged by their tier
+
+Allow UI -> Business, Business -> Storage
+
+
+
+
 
