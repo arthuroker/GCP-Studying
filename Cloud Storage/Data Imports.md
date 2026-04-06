@@ -54,6 +54,8 @@ CRC32C is a algorithm that GCP uses natively
 
 *Compression* - Compressing files an help reduce transfer time and storage costs. An option for very cost-sensitive use cases
 
-*Decompressive Transcoding* - Cloud Storage automatically decompresses gzip-compressed files when serving them, while still storing them in their compressed form
+*Decompressive Transcoding* - Cloud Storage automatically decompresses gzip-compressed files when serving them, while still storing them in their compressed form. So you get the cost-savings from compression without affecting the end-user experience
 
+*Expired Source credentials during transfer*
 
+Durring long-ri
