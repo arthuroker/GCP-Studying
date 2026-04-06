@@ -5,4 +5,5 @@ Secured time-limited way to grant access to a specific object in a bucket withou
 
 1) Signed URL created with an expiry time
 2) External party uses signed URL
-3) 
+3) Signed URL expires, no longer accessible
+
