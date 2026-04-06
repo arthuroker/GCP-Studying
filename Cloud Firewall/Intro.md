@@ -29,3 +29,8 @@ Can make rules around service accounts
 
 Logging is off by default
 
+To enable logging for a given rule:
+
+1) Config page for given rule
+2) Turn Log option on
+
