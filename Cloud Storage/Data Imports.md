@@ -48,3 +48,8 @@ Can also add a flag for the size of the chunks
 3) Retrieve the hash for the uploaded file
 4) Check that the hashes match
 
+CRC32C is a algorithm that GCP uses natively
+
+*Compressive and Decompressive Transcoding*
+
+*Compression*
