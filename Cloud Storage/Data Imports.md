@@ -21,3 +21,5 @@ Can automate ongoing or scheduled transfers
 
 Need high bandwidth and a stable connection at least 100 Mbps, 1Gbps is preferred
 
+Recommended for up to hundreds of terabytes, if more, consider transfer appliance
+
