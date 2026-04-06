@@ -58,4 +58,11 @@ CRC32C is a algorithm that GCP uses natively
 
 *Expired Source credentials during transfer*
 
-Durring long-ri
+During long-running transfers, you may encounter a forbidden 403 error
+
+Usually happens when credentials stop working
+
+Temporary access usually expired
+
+*Solution* - 
+1) Re
