@@ -11,4 +11,5 @@ Can do object-level override, where a certain bucket has a storage class but obj
 
 Generally once a year or less
 
-However, it can be good for data accessed only 2-3 times per year if cost is a priority and data storage cos
+However, it can be good for data accessed only 2-3 times per year if cost is a priority and data storage cost savings are greater than data retrieval costs
+
