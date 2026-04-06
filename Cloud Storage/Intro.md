@@ -21,7 +21,12 @@ Storage classes and regions are configurable
 
 *Types of backups Cloud Storage is good for*
 
-1) Archives - long term dat
+1) Archives - long term data sets that don't need frequent access
+2) Database backups
+3) Media backups - photos and videos
+4) Log files
+5) Disk snapshots
+6) 
 
 
 
