@@ -21,3 +21,5 @@ What if rules apply to the same given traffic?
 Each rule has a priority number from 0-65553
 	Lower number means higher priority
 
+*Identity-based rules*
+
