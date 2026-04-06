@@ -7,5 +7,9 @@ Can be used to dynamically control traffic with firewall rules as instances are 
 
 This is good because it avoids reliance on static IPs
 
-*Example*
+*Example 1*
+
+Scaling microservices in a VPC
+
+
 
