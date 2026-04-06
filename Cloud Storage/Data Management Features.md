@@ -44,4 +44,4 @@ Automatically transitions objects based on access patterns
 
 Must be enabled, off by default
 
-
+Still potentially more savings with Lifecycle rules, because for A
