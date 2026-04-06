@@ -23,3 +23,5 @@ Each rule has a priority number from 0-65553
 
 *Identity-based rules*
 
+Can make rules around service accounts
+
