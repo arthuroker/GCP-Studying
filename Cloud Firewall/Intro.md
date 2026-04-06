@@ -11,3 +11,7 @@ Mainly for VMs
 
 Can control ingress (incoming traffic) and egress (outgoing traffic)
 
+*Firewall Rules*
+
+Rules can be based on protocols, IP ranges, ports, tags, and on identity
+
