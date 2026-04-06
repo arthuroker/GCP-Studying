@@ -11,4 +11,4 @@ Secured time-limited way to grant access to a specific object in a bucket withou
 
 403 error with signed URLS
 
-*Solution* 
+*Solution* - increase the validity period of the signed URL
