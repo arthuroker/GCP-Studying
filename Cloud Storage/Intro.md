@@ -34,6 +34,11 @@ CLI tool specifically for Cloud Storage
 
 Can enable parallel composite uploads to maximize the use of available bandwidth
 
+Common commands:
 
+1) gsutil cp (copy)
+2) gsutil rsync (sync folders/buckets)
+3) gsutil ls (list)
+4) 
 
 
