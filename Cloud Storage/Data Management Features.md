@@ -30,3 +30,4 @@ The policy applied retroactively to all existing and new objects in the bucket
 
 It is useful for regulatory or internal governance compliance
 
+*Bucket lock* - A retention policy can be locked to make it permanent, once locked 
