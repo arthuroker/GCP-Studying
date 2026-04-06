@@ -65,4 +65,8 @@ Usually happens when credentials stop working
 Temporary access usually expired
 
 *Solution* - 
-1) Re
+1) Regenerate credential
+2) Extend the longevity if possible
+3) Split the transfer job into smaller chunks if possible
+
+
