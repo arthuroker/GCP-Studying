@@ -25,3 +25,7 @@ Each rule has a priority number from 0-65553
 
 Can make rules around service accounts
 
+*Logging*
+
+Logging is off by default
+
