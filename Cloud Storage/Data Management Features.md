@@ -26,10 +26,12 @@ Deleting an object creates a delete marker, making the previous version non-curr
 
 A bucket retention policy sets a retention period during which objects cannot be deleted or replaced
 
-The policy applied retroactively to all existing and new objects in the bucket
+The policy applied retroactively is applied to all existing and new objects in the bucket
 
 It is useful for regulatory or internal governance compliance
 
 *Bucket lock* - A retention policy can be locked to make it permanent, once locked, it cannot be removed or reduced in duration
 
-Locked policies prevent bucket deletion until all objects meet the retention perio
+Locked policies prevent bucket deletion until all objects meet the retention period but allow for an increase in the retention period
+
+
