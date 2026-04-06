@@ -13,3 +13,7 @@ Generally once a year or less
 
 However, it can be good for data accessed only 2-3 times per year if cost is a priority and data storage cost savings are greater than data retrieval costs
 
+*Location options*
+
+*Regional* - When you need to keep data in a specific location (ie. compliance), need low latency in that location, generally cheaper
+
