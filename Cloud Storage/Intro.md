@@ -15,7 +15,13 @@ Can control access to buckets and even specific objects within the bucket
 
 Generally more economical
 
+Versioning and redundancy is available
 
+Storage classes and regions are configurable
+
+*Types of backups Cloud Storage is good for*
+
+1) Archives - long term dat
 
 
 
