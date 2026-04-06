@@ -28,3 +28,7 @@ Recommended for up to hundreds of terabytes, if more, consider transfer applianc
 ![[Pasted image 20260406110101.png]]
 
 
+*Partitioning files during uploads*
+
+Partitioning large files into smaller segments and using concurrent transfer/upload jobs can help it go more quickly
+
