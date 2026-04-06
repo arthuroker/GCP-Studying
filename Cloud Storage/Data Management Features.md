@@ -46,4 +46,11 @@ Must be enabled, off by default
 
 Still potentially more savings with Lifecycle rules, because for Autoclass it starts out by storing everything at Standard
 
+After *x* days of not being accessed
+
+*30* - Nearline
+*90* - Coldline
+*365* - Archive
+
+
 
