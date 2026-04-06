@@ -23,3 +23,8 @@ Need high bandwidth and a stable connection at least 100 Mbps, 1Gbps is preferre
 
 Recommended for up to hundreds of terabytes, if more, consider transfer appliance
 
+*Command line uploads*
+
+![[Pasted image 20260406110101.png]]
+
+
