@@ -15,3 +15,5 @@ Can control ingress (incoming traffic) and egress (outgoing traffic)
 
 Rules can be based on protocols, IP ranges, ports, tags, and on identity
 
+What if rules apply to the same given traffic?
+	Firewall rules have a *priority* attribute that determines the order they are 
