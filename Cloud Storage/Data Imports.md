@@ -52,4 +52,6 @@ CRC32C is a algorithm that GCP uses natively
 
 *Compressive and Decompressive Transcoding*
 
-*Compression*
+*Compression* - Compressing files an help reduce transfer time and storage costs. An option for very cost-sensitive use cases
+
+*Decompressive Tr*
