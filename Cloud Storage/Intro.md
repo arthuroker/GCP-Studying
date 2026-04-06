@@ -11,7 +11,11 @@ Containers are called *buckets*
 
 Individual files/items are called *objects*
 
-Can accomd
+Can control access to buckets and even specific objects within the bucket
+
+Generally more economical
+
+
 
 
 
