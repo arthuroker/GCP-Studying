@@ -34,4 +34,7 @@ Partitioning large files into smaller segments and using concurrent transfer/upl
 
 Can use it with gCloud, gsutil, and Storage Transfer Service
 
-gsutil has a parallel composite uploads feature which automatically breaks  
+gsutil has a parallel composite uploads feature which automatically breaks larger files into smaller parts and uploads them in parallel 
+	Also called *multi-threaded* upload
+
+To do this, use the -m flag
