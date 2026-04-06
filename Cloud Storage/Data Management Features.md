@@ -8,4 +8,8 @@ Can be defined in Cloud Console, or in a JSON and applied via gsutil or gcloud
 *Examples*
 
 1) Set transition rules based on conditions such as age of the data
-2) Deleing outdated or 
+2) Deleing outdated or unnecessary data
+
+This management can help reduce costs
+
+*Object versioning*
