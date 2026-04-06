@@ -28,3 +28,5 @@ A bucket retention policy sets a retention period during which objects cannot be
 
 The policy applied retroactively to all existing and new objects in the bucket
 
+It is useful for regulatory or internal governance compliance
+
