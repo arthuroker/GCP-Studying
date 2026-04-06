@@ -32,3 +32,6 @@ Recommended for up to hundreds of terabytes, if more, consider transfer applianc
 
 Partitioning large files into smaller segments and using concurrent transfer/upload jobs can help it go more quickly
 
+Can use it with gCloud, gsutil, and Storage Transfer Service
+
+gsutil has a parallel composite uploads feature which automatically breaks  
