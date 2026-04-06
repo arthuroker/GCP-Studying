@@ -13,5 +13,7 @@ Scaling microservices in a VPC
 
 Problem - how do we control inter-service communication in a scalable micro-services architecture on GCP without relying on fixed IPs?
 
+We can group the different micro-services by tags, which then allows us to define traffic rules at the tag level
+
 
 
