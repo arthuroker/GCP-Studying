@@ -7,4 +7,5 @@ Intended to serve content to users with low latency, by having cached endpoints 
 
 It stores frequently accessed content closer to users
 
-Content is stored in a multi-region Cloud Sotra
+Content is stored in a multi-region Cloud Storage bucket
+
