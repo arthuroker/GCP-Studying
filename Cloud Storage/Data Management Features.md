@@ -13,3 +13,7 @@ Can be defined in Cloud Console, or in a JSON and applied via gsutil or gcloud
 This management can help reduce costs
 
 *Object versioning*
+
+Mechanism to keep track of different version of an object within the same bucket
+
+When you replace an object with another object with the same name , makes the odl one a noncurrent version 
