@@ -38,4 +38,10 @@ Helps further comply with data retention and compliance
 
 Retention policies and object versioning cannot be used simultaneously
 
+*Autoclass*
+
+Automatically transitions objects based on access patterns
+
+Must be enabled, off by default
+
 
