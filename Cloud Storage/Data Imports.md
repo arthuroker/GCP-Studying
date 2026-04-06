@@ -18,3 +18,6 @@ Move petabytes of data efficiently and securely
 Managed service that allows you to transfer on-prem or to/from other clouds
 
 Can automate ongoing or scheduled transfers
+
+Need high bandwidth and a stable connection at least 100 Mbps, 1Gbps is preferred
+
