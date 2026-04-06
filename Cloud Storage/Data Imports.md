@@ -45,4 +45,6 @@ Can also add a flag for the size of the chunks
 
 1) Upload file as normal
 2) Generate a CRC32C hash for local file
-3) Retrieve
+3) Retrieve the hash for the uploaded file
+4) Check that the hashes match
+
