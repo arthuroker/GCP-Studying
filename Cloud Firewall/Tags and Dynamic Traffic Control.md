@@ -25,7 +25,9 @@ Problem - traffic control between tiers?
 
 VMs are tagged by their tier
 
-Allow UI -> Business, Business -> Storage
+*Allow* - UI -> Business, Business -> Storage
+
+*Block* - Storage -> UI, UI -> Storage
 
 
 
