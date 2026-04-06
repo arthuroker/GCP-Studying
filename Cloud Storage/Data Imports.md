@@ -37,4 +37,9 @@ Can use it with gCloud, gsutil, and Storage Transfer Service
 gsutil has a parallel composite uploads feature which automatically breaks larger files into smaller parts and uploads them in parallel 
 	Also called *multi-threaded* upload
 
-To do this, use the -m flag
+To do this, use the -m flag with gsutil
+
+Can also add a flag for the size of the chunks
+
+*Ensuring data integrity during upload*
+
