@@ -7,3 +7,8 @@ Secured time-limited way to grant access to a specific object in a bucket withou
 2) External party uses signed URL
 3) Signed URL expires, no longer accessible
 
+*Errors*
+
+403 error with signed URLS
+
+*Solution* 
