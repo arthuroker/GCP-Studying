@@ -19,3 +19,4 @@ However, it can be good for data accessed only 2-3 times per year if cost is a p
 
 *Multi-region* - US, EU, Asia. Access across multiple regions, highest availability and global access with minimal latency
 
+*Dual-region* - higher durability and availability than regional, and more cost-effective than multi-regional
