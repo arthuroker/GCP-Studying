@@ -34,4 +34,8 @@ It is useful for regulatory or internal governance compliance
 
 Locked policies prevent bucket deletion until all objects meet the retention period but allow for an increase in the retention period
 
+Helps further comply with data retention and compliance
+
+Retention policies and object versioning cannot be used simultaneously
+
 
