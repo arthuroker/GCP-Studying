@@ -43,4 +43,6 @@ Can also add a flag for the size of the chunks
 
 *Ensuring data integrity during upload*
 
-1) 
+1) Upload file as normal
+2) Generate a CRC32C hash for local file
+3) Retrieve
