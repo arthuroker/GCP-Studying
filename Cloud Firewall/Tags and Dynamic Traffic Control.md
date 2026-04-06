@@ -11,5 +11,5 @@ This is good because it avoids reliance on static IPs
 
 Scaling microservices in a VPC
 
-
+Problem - how do we control inter-service communication in a scalable m
 
