@@ -26,3 +26,5 @@ Deleting an object creates a delete marker, making the previous version non-curr
 
 A bucket retention policy sets a retention period during which objects cannot be deleted or replaced
 
+The policy applied retroactively to all existing and new objects in the bucket
+
