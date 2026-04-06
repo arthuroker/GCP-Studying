@@ -13,3 +13,7 @@ This is good for one-time data migrations where network bandwidth is limited
 
 Move petabytes of data efficiently and securely
 
+*Storage Transfer Service*
+
+Managed service that allows you to transfer on-prem or to/from other clouds
+
