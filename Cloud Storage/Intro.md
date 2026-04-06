@@ -26,7 +26,14 @@ Storage classes and regions are configurable
 3) Media backups - photos and videos
 4) Log files
 5) Disk snapshots
-6) 
+
+
+*gsutil*
+
+CLI tool specifically for Cloud Storage
+
+Can enable parallel composite uploads to maximize the use of available bandwidth
+
 
 
 
