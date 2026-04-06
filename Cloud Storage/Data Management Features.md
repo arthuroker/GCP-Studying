@@ -16,4 +16,7 @@ This management can help reduce costs
 
 Mechanism to keep track of different version of an object within the same bucket
 
-When you replace an object with another object with the same name , makes the odl one a noncurrent version 
+When versioning is enabled, when you replace an object with another object with the same name, makes the old one a non-current version in the same bucket
+
+Deleting an object creates a delete marker, making the previous version noncurrent in a versioned bu
+
