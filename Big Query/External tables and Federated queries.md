@@ -31,5 +31,7 @@ EXTNERAL_QUERY function
 
 Use the source tables' SQL dialect, not BQ dialect
 
-Send queries
+Send queries, returns as a temporary table, not treated as native BQ
+
+
 
