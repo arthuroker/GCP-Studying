@@ -16,5 +16,7 @@ Useful for understanding usage patterns and optimizing performance
 
 BQ interface allows you to view errors related to jobs
 
+Jobs explorer should be the first place to look
 
+*quotaExceeded error*
 
