@@ -40,3 +40,10 @@ Formerly Big Query SQL
 Not recommended
 
 *Resource Hierarchy*
+
+Project
+to
+Datasets 
+to
+Tables
+
