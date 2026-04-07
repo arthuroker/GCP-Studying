@@ -15,3 +15,11 @@ Data warehouse solution
 
 Flagship product
 
+*Ways to access*
+
+Cloud Console
+
+bq command line tool
+
+Client libraries
+
