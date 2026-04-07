@@ -19,3 +19,5 @@ Can also lead to data redundancy
 
 *Denormalization in BQ*
 
+BQ encourages denormalization to improve cost and performance
+
