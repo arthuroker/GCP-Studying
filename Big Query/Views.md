@@ -25,3 +25,11 @@ Cost-effective for frequently accessed data  especially large datasets
 
 Reduces computational charges associated with on-the-fly query executions
 
+Choose over standard when:
+
+1) Query is accessed frequently
+2) Query computation size is high
+3) Storage costs for materialized view is low
+4) Real-time data reflection is no
+
+
