@@ -9,4 +9,12 @@ Splits the table into smaller pieces called partitions, based on certain criteri
 
 Can partition by things like timestamps, ingestion time, integer ranges 
 
-Reduces the amount of data that is scanned, impr
+Reduces the amount of data that is scanned, improving performance and lowering query costs
+
+Good for large and fast-growing data sets
+
+*Common time-partition sources*
+
+1) IoT sensor data
+2) Transaction logs
+3) Clickstream data (user interactions with sit)
