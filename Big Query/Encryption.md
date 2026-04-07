@@ -10,3 +10,10 @@ Automatically rotated regularly
 Use CMEK with datasets for more control
 
 Especially useful for compliance/regulation
+
+Use Cloud KMS
+
+Can also be configured at the table-level
+
+*Using CSEK*
+
