@@ -9,4 +9,6 @@ Like:
 
 1) Add new columns
 2) Relax column mode (required -> nullable)
-3) 
+3) Update column descriptions
+4) Modify default values
+
