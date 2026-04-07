@@ -22,4 +22,10 @@ Retrieves results as a temporary table in BQ
 Works for:
 
 1) Cloud Spanner
-2) 
+2) Cloud SQL
+3) Alloy DB
+
+EXTNERAL_QUERY function
+
+Use the source tables' SQL dialect, not BQ dialect
+
