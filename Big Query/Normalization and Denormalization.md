@@ -27,5 +27,9 @@ Thus, reduces the need for expensive JOIN operations
 
 BQ allows nested tables and repeated fields to store complex data structures within a single table
 
+RECORD/STRUCT data type, use UNNEST to flatten/normalize nested data for analysis
+
+BQ supports JOIN, but denormalize where possible
+
 
 
