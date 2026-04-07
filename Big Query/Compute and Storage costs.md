@@ -39,8 +39,18 @@ pay for a dedicated amount of slots
 More slots = faster execution (can do it in parallel) but higher cost
 
 
-
 *Cross project queries*
 
+Billing is already applied to where the query is executed, not the source data project
 
+
+
+*Storage costs*
+
+*Active*
+
+
+
+
+*Longterm*
 
