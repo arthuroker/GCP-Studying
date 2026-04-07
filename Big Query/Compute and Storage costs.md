@@ -15,4 +15,5 @@ Also charged for storing data in BQ (Active and Long-term), but charged separate
 
 Perform a dry run of query using the bq cmd tool
 
-Also there is a preview number of bytes in the query 
+Also there is a preview number of bytes in the query UI
+
