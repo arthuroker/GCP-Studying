@@ -17,4 +17,9 @@ Good for large and fast-growing data sets
 
 1) IoT sensor data
 2) Transaction logs
-3) Clickstream data (user interactions with sit)
+3) Clickstream data (user interactions with sites and apps)
+4) Sensor logs
+
+Usually partitioned by hour or day
+
+Can set partition expirations to be deleted once 
