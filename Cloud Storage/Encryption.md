@@ -25,4 +25,8 @@ Can observe and control key:
 Steps:
 
 1) On-prem with a CSEK (key is stored in a config file "BOTO file" contains key and credentials that gsutil references)
-2) 
+2) Uploaded and the key and gsutil work to upload is to GCS
+
+
+Key itself is never stored in GCS
+
