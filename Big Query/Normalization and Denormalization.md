@@ -25,5 +25,7 @@ BQ uses columnar storage, which scans data more efficiently compared to other da
 
 Thus, reduces the need for expensive JOIN operations
 
-BQ allows nested tables, 
+BQ allows nested tables and repeated fields to store complex data structures within a single table
+
+
 
