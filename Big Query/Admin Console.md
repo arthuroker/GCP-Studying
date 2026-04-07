@@ -24,3 +24,7 @@ Hit a limit on a specific resource/operation
 
 Identify the specific quote by looking at the error details
 
+Review the current quota usage in GCP Console
+
+Leverage INFORMATION_SCHEMA view
+
