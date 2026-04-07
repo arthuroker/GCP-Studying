@@ -30,3 +30,5 @@ Steps:
 
 Key itself is never stored in GCS
 
+Keys are passed in each API request to encrypt and decrypt data
+
