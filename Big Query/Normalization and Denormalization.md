@@ -21,3 +21,9 @@ Can also lead to data redundancy
 
 BQ encourages denormalization to improve cost and performance
 
+BQ uses columnar storage, which scans data more efficiently compared to other databases when normalized
+
+Thus, reduces the need for expensive JOIN operations
+
+BQ allows nested tables, 
+
