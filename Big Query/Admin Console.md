@@ -12,5 +12,9 @@ Provides a standardized, queryable, read-only views with metadata about datasets
 
 Useful for understanding usage patterns and optimizing performance
 
+*Errors related to jobs*
+
+BQ interface allows you to view errors related to jobs
+
 
 
