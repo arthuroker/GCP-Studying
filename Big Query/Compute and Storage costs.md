@@ -51,6 +51,7 @@ Billing is already applied to where the query is executed, not the source data p
 
 When a table is imported, it is automatically put in active storage
 
+If the data is accessed again from longterm, the clock restarts and it gets moved into active
 
 
 *Longterm*
