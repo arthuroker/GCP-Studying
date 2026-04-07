@@ -10,5 +10,7 @@ Can do:
 
 Provides a standardized, queryable, read-only views with metadata about datasets, tables, columns, jobs, etc.
 
+Useful for understanding usage patterns and optimizing performance
+
 
 
