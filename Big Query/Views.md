@@ -19,3 +19,9 @@ Choose over materialized views when:
 
 Provide pre-computed and cached query results
 
+Stores the results
+
+Cost-effective for frequently accessed data  especially large datasets
+
+Reduces computational charges associated with on-the-fly query executions
+
