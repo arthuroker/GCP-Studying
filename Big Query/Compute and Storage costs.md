@@ -27,9 +27,11 @@ More/fewer slots can be recruited dynamically as query is executed
 
 Two pricing options:
 
-*On demand (default)*
+*On demand (default)*:
 
+pay based on number of bytes processed by the query with a soft cap of 2,000 slots
 
 *Capacity based*
+
 
 
