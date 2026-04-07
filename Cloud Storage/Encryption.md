@@ -18,4 +18,6 @@ Can observe and control key:
 1) Creation
 2) Usage
 3) Rotation
-4) 
+4) Revocation
+
+*CUstomer-supplied encryption ke*
