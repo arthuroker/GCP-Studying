@@ -20,4 +20,9 @@ Can observe and control key:
 3) Rotation
 4) Revocation
 
-*CUstomer-supplied encryption ke*
+*Customer-supplied encryption keys*
+
+Steps:
+
+1) On-prem with a CSEK (key is stored in a config file "BOTO file" contains key and credentials that gsutil references)
+2) 
