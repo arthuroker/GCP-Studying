@@ -21,3 +21,5 @@ Also there is a preview number of bytes in the query UI
 
 Slots = BQ units of computation
 
+More/fewer slots can be recruited dynamically as query is executed
+
