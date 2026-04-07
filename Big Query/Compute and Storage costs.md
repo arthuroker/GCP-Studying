@@ -58,3 +58,5 @@ If the data is accessed again from longterm, the clock restarts and it gets move
 
 After 90 days of inactivity, it is transitioned to long-term storage
 
+Also applies to partitions
+
