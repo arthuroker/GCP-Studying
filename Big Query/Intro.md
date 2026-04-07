@@ -39,3 +39,4 @@ Formerly Big Query SQL
 
 Not recommended
 
+*Resource Hierarchy*
