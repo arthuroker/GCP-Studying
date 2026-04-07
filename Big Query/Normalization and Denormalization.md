@@ -17,4 +17,5 @@ The goal is to reduce the number of tables involved in a query
 
 Can also lead to data redundancy
 
-*Denom*
+*Denormalization in BQ*
+
