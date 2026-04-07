@@ -13,3 +13,8 @@ Queries that require combining data from different tables may require expensive 
 
 Process of reversing some of the normalization by combining related tables into one to reduce the need for complex joins
 
+The goal is to reduce the number of tables involved in a query
+
+Can also lead to data redundancy
+
+*Denom*
