@@ -23,3 +23,10 @@ bq command line tool
 
 Client libraries
 
+*Query dialects*
+
+*Standard SQL*:
+
+Preferred
+
+Allows querying nested and re
