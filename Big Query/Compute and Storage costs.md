@@ -40,3 +40,7 @@ More slots = faster execution (can do it in parallel) but higher cost
 
 
 
+*Cross project queries*
+
+
+
