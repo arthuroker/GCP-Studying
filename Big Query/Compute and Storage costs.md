@@ -17,3 +17,7 @@ Perform a dry run of query using the bq cmd tool
 
 Also there is a preview number of bytes in the query UI
 
+*Slots*
+
+Slots = BQ units of computation
+
