@@ -22,4 +22,9 @@ Good for large and fast-growing data sets
 
 Usually partitioned by hour or day
 
-Can set partition expirations to be deleted once 
+Can set partition expirations to be deleted once they reach expiration age
+
+ex. delete partitions that are older than 90 days
+
+Not table expiration, distinct
+
