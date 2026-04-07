@@ -20,3 +20,7 @@ Jobs explorer should be the first place to look
 
 *quotaExceeded error*
 
+Hit a limit on a specific resource/operation
+
+Identify the specific quote by looking at the error details
+
