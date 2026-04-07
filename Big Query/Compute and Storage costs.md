@@ -33,5 +33,10 @@ pay based on number of bytes processed by the query with a soft cap of 2,000 slo
 
 *Capacity based*
 
+pay for a dedicated amount of slots
+
+
+More slots = faster execution (can do it in parallel) but higher cost
+
 
 
