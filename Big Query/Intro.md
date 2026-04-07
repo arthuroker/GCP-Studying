@@ -29,4 +29,13 @@ Client libraries
 
 Preferred
 
-Allows querying nested and re
+Allows querying nested and repeated data
+
+*Legacy SQL*
+
+Non-standard
+
+Formerly Big Query SQL
+
+Not recommended
+
