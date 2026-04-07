@@ -36,6 +36,10 @@ Choose over standard when:
 
 Security mechanism that allows users to query specific data without giving them access to the underlying tables
 
+Restrict access to sensitive data while sharing only the results of a defined query
+
+Can control data visibility and enhance security
+
 
 
 
