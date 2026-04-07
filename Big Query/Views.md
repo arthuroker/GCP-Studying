@@ -30,6 +30,12 @@ Choose over standard when:
 1) Query is accessed frequently
 2) Query computation size is high
 3) Storage costs for materialized view is low
-4) Real-time data reflection is no
+4) Real-time data reflection is not required
+
+*Authorized views*
+
+Security mechanism that allows users to query specific data without giving them access to the underlying tables
+
+
 
 
