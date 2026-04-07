@@ -49,8 +49,11 @@ Billing is already applied to where the query is executed, not the source data p
 
 *Active*
 
+When a table is imported, it is automatically put in active storage
 
 
 
 *Longterm*
+
+After 90 days of inactivity, it is transitioned to long-term storage
 
