@@ -31,5 +31,7 @@ RECORD/STRUCT data type, use UNNEST to flatten/normalize nested data for analysi
 
 BQ supports JOIN, but denormalize where possible
 
+*Normalization versus Denormalization*
 
+Normalization - when data integrity 
 
