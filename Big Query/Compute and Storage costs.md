@@ -11,3 +11,7 @@ Also charged for storing data in BQ (Active and Long-term), but charged separate
 4) Processing
 5) Query result
 
+*Estimating size of a query*
+
+Perform a dry run of query using the bq cmd tool
+
