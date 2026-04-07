@@ -21,5 +21,15 @@ Also there is a preview number of bytes in the query UI
 
 Slots = BQ units of computation
 
+Sees the query and estimates the amount needed, then provides it
+
 More/fewer slots can be recruited dynamically as query is executed
+
+Two pricing options:
+
+*On demand (default)*
+
+
+*Capacity based*
+
 
