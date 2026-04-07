@@ -9,3 +9,7 @@ Normalization can introduce performance overhead during queries
 
 Queries that require combining data from different tables may require expensive JOIN operations
 
+*Denormalization*
+
+Process of reversing some of the normalization by combining related tables into one to reduce the need for complex joins
+
