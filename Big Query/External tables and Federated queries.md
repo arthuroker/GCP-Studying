@@ -3,6 +3,8 @@
 
 Can create an external table in BQ for data that is stored in GCS and run SQL queries directly on that data as if it were in BQ
 
+BQ table that points to data, as if native BQ
+
 *Process*
 
 Reads the data
@@ -28,4 +30,6 @@ Works for:
 EXTNERAL_QUERY function
 
 Use the source tables' SQL dialect, not BQ dialect
+
+Send queries
 
