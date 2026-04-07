@@ -33,5 +33,7 @@ BQ supports JOIN, but denormalize where possible
 
 *Normalization versus Denormalization*
 
-Normalization - when data integrity 
+Normalization - when data integrity and update efficiency are more important than query speed
+
+Denormalization - Query performance is the primary concern, read heavy systems 
 
