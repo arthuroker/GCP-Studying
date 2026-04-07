@@ -9,5 +9,4 @@ Ensures that only authorized origins can interact with your bucket
 
 Sometimes used with signed URL for another layer of security
 
-*Use case*
 
