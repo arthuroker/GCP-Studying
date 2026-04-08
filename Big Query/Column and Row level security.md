@@ -10,3 +10,5 @@ Can give Vertex AI account the right role to train on certain data
 
 *Row Level Security*
 
+Created in BQ through SQL
+
