@@ -13,4 +13,5 @@ Managed, but no no-ops. You still need to configure the instances
 
 Can interact with BigTable through
 
-1) 
+1) cbt (Cloud Big Table Tool) - CLI tool
+2) HBase shell -CLI tool 
