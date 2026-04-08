@@ -26,4 +26,6 @@ Column qualifier identifies specific sensor reading
 
 Good - id#timestamp
 
-Bad - timespa
+Bad - timestamp#id (timestamp all go to the same tablet)
+
+Also bad - vehicle_type#timestamp 
