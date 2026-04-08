@@ -22,3 +22,8 @@ Column family groups related sensor metrics
 
 Column qualifier identifies specific sensor reading
 
+*Comparison of approaches*
+
+Good - id#timestamp
+
+Bad - timespa
