@@ -5,3 +5,6 @@ A performance bottleneck when a disproportionate amount of requests are being se
 
 *Row key best practices*
 
+1) Reverse domain names
+2) Timestamps at the end of the rowkey
+
