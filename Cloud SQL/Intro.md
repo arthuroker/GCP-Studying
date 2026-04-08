@@ -10,3 +10,10 @@ Supports SQL server with some limitations
 Suitable for small-medium datasets, single-region deployments, and transactional use cases
 
 Strong consistency, fast queries, ACID compliance
+
+*OLTP (online transactional processing)*
+
+Cloud SQL is good for transactional workloads
+
+INSERT, UPDATE, DELETE
+
