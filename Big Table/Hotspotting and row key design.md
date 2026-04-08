@@ -31,5 +31,11 @@ Considerations
 
 When a column gets merged into a row key
 
+Reduces the need for full table scans
+
+*Key visualizer*
+
+
+
 
 
