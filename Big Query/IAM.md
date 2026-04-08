@@ -13,4 +13,10 @@
 *BQ Data Editor* - Create, modify, and delete table data
 	Project, dataset, view, and table level
 
-*BQ *
+*BQ Data Viewer* - read-only access to tables and views
+	Project, dataset, view, and table level
+
+*BQ Job User* - Run jobs and queries
+	Only at project level
+
+*BQ Metadata viewer* - access table/dataset 
