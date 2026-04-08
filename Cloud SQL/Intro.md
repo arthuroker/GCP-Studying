@@ -17,3 +17,6 @@ Cloud SQL is good for transactional workloads
 
 INSERT, UPDATE, DELETE
 
+E-commerce, banking, inventory management, CRMs
+
+In contrast, Big Query is good for analytical workloads (OLAP)
