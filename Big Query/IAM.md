@@ -2,6 +2,10 @@
  *IAM roles to know*
  
  *Big Query Admin* - Full control over BQ
-	Can be granted at different levels
+	Can be granted at all kinds of different levels
 
-*Big Query Us*
+*Big Query User* - Create data sets and manage jobs
+	Can be granted at project and dataset level
+
+*BQ Data Owner* - Manage and share datasets/views
+	Granted a
