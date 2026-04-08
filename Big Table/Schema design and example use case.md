@@ -12,4 +12,10 @@ Row key = vehicle_id#timestamp
 
 Column family = sensor data
 
-Column qualifier = sensor_type(speed, fuel_level, )
+Column qualifier = sensor_type(speed, fuel_level, temperature, location)
+
+*Why is this good?*
+
+Row key distributes writes across tablets
+
+Column family groups related senso
