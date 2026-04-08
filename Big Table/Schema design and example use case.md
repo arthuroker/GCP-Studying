@@ -28,4 +28,5 @@ Good - id#timestamp
 
 Bad - timestamp#id (timestamp all go to the same tablet)
 
-Also bad - vehicle_type#timestamp 
+Also bad - vehicle_type#timestamp (vehicle type is not high enough cardinality)
+
