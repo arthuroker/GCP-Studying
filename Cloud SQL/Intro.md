@@ -20,3 +20,8 @@ INSERT, UPDATE, DELETE
 E-commerce, banking, inventory management, CRMs
 
 In contrast, Big Query is good for analytical workloads (OLAP)
+
+SUM, COUNT, AVG, MAX, MIN
+
+Trend analysis, data mining, reporting
+
