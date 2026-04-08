@@ -6,4 +6,10 @@ Fleet of delivery vehicles with IoT sensors
 
 This generates lots of time-series data
 
-*How do we optimize for efficient read and writes*
+*How do we optimize for efficient read and writes?*
+
+Row key = vehicle_id#timestamp
+
+Column family = sensor data
+
+Column qualifier = sensor_type(speed, fuel_level, )
