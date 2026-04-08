@@ -9,3 +9,8 @@ Good for high throughput data that needs atomicity
 
 Managed, but no no-ops. You still need to configure the instances
 
+*Tools*
+
+Can interact with BigTable through
+
+1) 
