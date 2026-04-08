@@ -8,4 +8,9 @@
 	Can be granted at project and dataset level
 
 *BQ Data Owner* - Manage and share datasets/views
-	Granted a
+	Granted at project and dataset
+
+*BQ Data Editor* - Create, modify, and delete table data
+	Project, dataset, view, and table level
+
+*BQ *
