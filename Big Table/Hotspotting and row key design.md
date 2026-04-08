@@ -35,6 +35,10 @@ Reduces the need for full table scans
 
 *Key visualizer*
 
+Heat-map that shows where a lot of reads and writes are happening
+
+See performance bottlenecks
+
 
 
 
