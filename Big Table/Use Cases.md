@@ -2,5 +2,6 @@
 *Use Cases
 
 1) Time-series data storage (ie. stock data)
-2) Geospatial data storage (ie. mapp)
-3) 
+2) Geospatial data storage (ie. mapping or logistics)
+3) Real-time content recommendations
+4) IoT sensor data ingestion
