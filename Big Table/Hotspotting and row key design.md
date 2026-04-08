@@ -29,7 +29,7 @@ Considerations
 
 *Field promotion*
 
-
+When a column gets merged into a row key
 
 
 
