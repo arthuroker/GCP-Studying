@@ -10,3 +10,8 @@
 
 Backups that capture that database's structure and/or data allowing it to be restored or migrated to another instance
 
+PostgreSQL:
+
+Dump_file= pg_dump
+Import/restore = pg_restore
+
