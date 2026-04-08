@@ -13,5 +13,10 @@ A performance bottleneck when a disproportionate amount of requests are being se
 
 1) Domain names that are not reversed
 2) Sequential numbers
-3) 
+3) Keys that need to be updated frequently
+   
+   
+*Salting in BigTable*
+
+
 
