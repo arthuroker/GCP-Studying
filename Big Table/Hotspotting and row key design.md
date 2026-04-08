@@ -20,3 +20,10 @@ A performance bottleneck when a disproportionate amount of requests are being se
 
 Salting is the process of adding a random prefix to row keys to more uniformly spread data across nodes
 
+Prefix values are usually random numbers or hash values
+
+Considerations
+
+1) Can complicate range queries because of non-sequential row keys
+2) 
+
