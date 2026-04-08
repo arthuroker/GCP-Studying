@@ -22,4 +22,7 @@ Import/restore= mysqlimport
 
 *Best practices*
 
-Store your data in 
+Store your data in GCS first before importing it
+
+Use correct flags for dump files
+
