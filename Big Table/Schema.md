@@ -9,4 +9,5 @@ Columns exist within column families, specific columns are defined dynamically b
 
 Row keys uniquely identify a row
 
-Only the row key is indexed in Big Table, so they design of the row key greatly affects access 
+Only the row key is indexed in Big Table, so they design of the row key greatly affects access patterns and performance
+
