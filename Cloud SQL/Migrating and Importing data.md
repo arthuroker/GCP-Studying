@@ -12,6 +12,11 @@ Backups that capture that database's structure and/or data allowing it to be res
 
 PostgreSQL:
 
-Dump_file= pg_dump
+Dump file= pg_dump
 Import/restore = pg_restore
+
+MySQL:
+
+Dump file = mysqldump
+Import/restore= mysqlimport
 
