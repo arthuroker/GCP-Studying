@@ -18,5 +18,5 @@ A performance bottleneck when a disproportionate amount of requests are being se
    
 *Salting in BigTable*
 
-
+Salting is the process of adding a random prefix to row keys to more uniformly spread data across nodes
 
