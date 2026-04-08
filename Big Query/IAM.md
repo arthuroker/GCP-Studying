@@ -24,3 +24,7 @@
 
 *Team specific datasets*
 
+Can utilize Google Groups to organize teams into certain IAM roles
+
+Assign IAM roles to groups instead of individuals, easier to manage
+
