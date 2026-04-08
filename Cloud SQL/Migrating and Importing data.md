@@ -20,3 +20,6 @@ MySQL:
 Dump file = mysqldump
 Import/restore= mysqlimport
 
+*Best practices*
+
+Store your data in 
