@@ -6,3 +6,7 @@
 3) Grant users access on the Dataplex taxonomy or policy tag
 	Dataplex fine-grained reader
 
+Can give Vertex AI account the right role to train on certain data
+
+*Row Level Security*
+
