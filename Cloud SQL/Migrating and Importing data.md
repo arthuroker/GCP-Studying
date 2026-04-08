@@ -8,4 +8,5 @@
 
 *Dump Files*
 
-Backups that capture that database's structure and/or data allowing it to be restored
+Backups that capture that database's structure and/or data allowing it to be restored or migrated to another instance
+
