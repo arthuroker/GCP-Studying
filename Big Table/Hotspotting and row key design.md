@@ -25,5 +25,11 @@ Prefix values are usually random numbers or hash values
 Considerations
 
 1) Can complicate range queries because of non-sequential row keys
-2) 
+2) Increases overhead since you need to modify data on ingest, account for prefixes when querying
+
+*Field promotion*
+
+
+
+
 
