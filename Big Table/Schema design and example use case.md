@@ -18,4 +18,7 @@ Column qualifier = sensor_type(speed, fuel_level, temperature, location)
 
 Row key distributes writes across tablets
 
-Column family groups related senso
+Column family groups related sensor metrics
+
+Column qualifier identifies specific sensor reading
+
