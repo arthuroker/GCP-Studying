@@ -19,4 +19,8 @@
 *BQ Job User* - Run jobs and queries
 	Only at project level
 
-*BQ Metadata viewer* - access table/dataset 
+*BQ Metadata viewer* - access table/dataset metadata
+	Any level
+
+*Team specific datasets*
+
