@@ -12,4 +12,6 @@ BigTable is good at this
 
 Lots of rows, but relatively few columns
 
-Good for needle
+Good for *needle in a haystack* operations
+	ie. specific stock price in a vast amount of data
+
