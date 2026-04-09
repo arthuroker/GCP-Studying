@@ -3,3 +3,8 @@
 
 *Datastore Admin* - full control
 
+*Datastore User* - read and write access to data
+
+*Datastore Viewer* - read access to data and metadata
+
+*Datastore index admin* - manage 
