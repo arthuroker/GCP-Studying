@@ -9,3 +9,6 @@ Mainly a concern with write-heavy workloads
 
 Partitions data from primary into smaller shards
 
+Each shard can be distributed across multiple servers
+
+Reduces replication lag by distributing write operations across multiple shards, thereby 
