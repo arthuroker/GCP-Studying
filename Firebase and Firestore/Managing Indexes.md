@@ -20,4 +20,9 @@ Though, when multiple fields have a wide range of values, this can lead to a com
 To prevent this, you can manually configure your indexes in the index configuration file
 
 
+*Creating and deploying Firestore indexes*
+
+Specified in a YAML file
+
+![[Pasted image 20260409130829.png]]
 
