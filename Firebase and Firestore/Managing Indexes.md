@@ -15,5 +15,9 @@ To support enough filters, Filestore may generate an index for each possible com
 
 To support querying documents, Filestore creates an index with an entry for each possible combination of values
 
+Though, when multiple fields have a wide range of values, this can lead to a combinatorial explosion
+
+To prevent this, you can manually configure your indexes in the index configuration file
+
 
 
