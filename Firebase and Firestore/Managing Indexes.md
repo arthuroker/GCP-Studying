@@ -9,3 +9,7 @@ A document can optionally contain one or more sub-collections
 
 A sub-collection can contain one or more documents
 
+*Exploding compound indexes*
+
+To support enough filters, 
+
