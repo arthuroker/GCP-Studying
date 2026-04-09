@@ -15,3 +15,11 @@ PubSub is a global scale messaging buffer
 
 Decouples senders and receivers, making systems more reliable
 
+Serverless, no ops
+
+GCP version of Apache Kafka
+
+*Use cases*
+
+1) Data ingenstion
+2) Connect to other pipeline ervices such as Dataflow
