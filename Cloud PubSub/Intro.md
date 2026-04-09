@@ -21,5 +21,6 @@ GCP version of Apache Kafka
 
 *Use cases*
 
-1) Data ingenstion
-2) Connect to other pipeline ervices such as Dataflow
+1) Data ingestion
+2) Connect to other pipeline services such as Dataflow
+
