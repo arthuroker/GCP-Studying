@@ -7,4 +7,9 @@
 
 *BigTable* if NoSQL is an option and you need strong consistency and ACID compliance
 
-*BigQuery* if you don't need strong consistency or ACID compliac
+*BigQuery* if you don't need strong consistency or ACID compliance, and OLAP is good enough
+
+*Automatic Storage Increase*
+
+Enables automatic increase when capacity is nearly full
+
