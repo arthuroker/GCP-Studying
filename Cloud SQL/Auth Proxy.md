@@ -15,3 +15,5 @@ Service accounts are used
 
 Restrict access to a Cloud SQL instance by IP range
 
+When using Cloud Auth Proxy, leave the Authorized Networks blank since theres no need for it
+
