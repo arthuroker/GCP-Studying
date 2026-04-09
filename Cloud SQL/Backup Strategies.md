@@ -15,5 +15,7 @@ For MySQL is uses binary logging and for PostgreSQL is uses write-ahead logging
 
 *Manual* - self explanatory, keep as long as you want
 
-*Scheduled exports* - Export backups to Cloud Storage for long term retention or cimp
+*Scheduled exports* - Export backups to Cloud Storage for long term retention or compliance purposes
+
+
 
