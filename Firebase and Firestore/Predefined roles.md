@@ -11,4 +11,6 @@
 
 *Firebase Admin* - full control, including Firestore
 
+*Firebase Viewer* - read access to everything, including Firestore
+
 
