@@ -7,4 +7,6 @@ The replica should be set up in a distinct region from master or a different zon
 
 *Read replicas*
 
-Copies of the main database instance that help distribute 
+Copies of the main database instance that help distribute read operations so the primary does not get overwhelmed
+
+Read replicas must be in the same region as
