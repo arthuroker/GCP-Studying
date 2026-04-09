@@ -13,3 +13,11 @@
 
 Enables automatic increase when capacity is nearly full
 
+Prevents service disruptions to insufficient space
+
+Bounded by the 64TB max
+
+Is vertical scaling, increases the capacity of existing instances
+
+Not considered auto scaling, does not scale back down
+
