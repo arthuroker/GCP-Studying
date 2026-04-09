@@ -13,5 +13,7 @@ A sub-collection can contain one or more documents
 
 To support enough filters, Filestore may generate an index for each possible combination of these fields. This results in an exploding index as the combinations multiply across the multiple job attributes
 
+To support querying documents, Filestore creates an index with an entry for each possible combination of values
+
 
 
