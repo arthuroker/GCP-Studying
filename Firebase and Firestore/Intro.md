@@ -13,3 +13,13 @@ Provides analytics, crash reporting, and A/B testing
 
 Primary database service for Firebase
 
+NoSQL database
+
+Scalable, fully-managed, serverless
+
+Real-time sync for clients
+
+ACID compliant
+
+Multi-region access
+
