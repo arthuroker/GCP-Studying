@@ -11,4 +11,5 @@ Better performance by separating storage and compute
 *Common use cases*
 
 1) High performance, transactional applications (ie. retail platform during a holiday)
-2) 
+2) Fast analytics from transactional data
+3) Vector Search / backend for Gen AI
