@@ -11,3 +11,7 @@ Hides IP of Cloud SQL instance to everyone else
 
 Service accounts are used
 
+*Authorized Networks*
+
+Restrict access to a Cloud SQL instance by IP range
+
