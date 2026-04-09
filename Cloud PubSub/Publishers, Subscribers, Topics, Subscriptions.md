@@ -5,4 +5,5 @@
 
 *Topics* - a named resource to which publishers send messages. It acts like a channel or category under which messages are sent
 
-*Subscription* - a named resource representing the stream of messages from a specific topic to a subscriber. It's like signing up to receive all messages 
+*Subscription* - a named resource representing the stream of messages from a specific topic to a subscriber. It's like signing up to receive all messages posted to a particular topic
+
