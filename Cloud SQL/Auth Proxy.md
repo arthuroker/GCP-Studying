@@ -9,3 +9,5 @@ Ensures encrypted connection between the application and Cloud SQL instance
 
 Hides IP of Cloud SQL instance to everyone else
 
+Service accounts are used
+
