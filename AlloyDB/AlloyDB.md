@@ -13,3 +13,6 @@ Better performance by separating storage and compute
 1) High performance, transactional applications (ie. retail platform during a holiday)
 2) Fast analytics from transactional data
 3) Vector Search / backend for Gen AI
+
+Each of these has potentially better and more specialized GCP services, but teams may prefer this for the PostgreSQL compatibility
+
