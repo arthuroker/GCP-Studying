@@ -9,3 +9,9 @@ Now imagine a vehicle bus between them. Messages can wait in the queue, receiver
 
 PubSub is this message bus
 
+*What is it?*
+
+PubSub is a global scale messaging buffer
+
+Decouples senders and receivers, making systems more reliable
+
