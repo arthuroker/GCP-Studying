@@ -9,3 +9,7 @@ For MySQL is uses binary logging and for PostgreSQL is uses write-ahead logging
 
 *write-ahead logging* - logs changes before applying them to the database
 
+*Backups*
+
+*Automatic* - Can configure daily automatic backups within a 4 hour window, retained for 7 days by default
+
