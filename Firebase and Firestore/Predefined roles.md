@@ -7,4 +7,8 @@
 
 *Datastore Viewer* - read access to data and metadata
 
-*Datastore index admin* - manage 
+*Datastore index admin* - manage Firestore indexes
+
+*Firebase Admin* - full control, including Firestore
+
+
