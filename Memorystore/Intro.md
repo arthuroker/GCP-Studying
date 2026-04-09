@@ -11,4 +11,7 @@ Supported Redis and Memcached, both OSS
 
 1) News website caching frequently-accessed articles
 2) Gaming leaderboards
-3) 
+3) API request caching
+4) E-commerce platform that stores user session data
+
+
