@@ -1,0 +1,2 @@
+
+*Publisher* - an entity
