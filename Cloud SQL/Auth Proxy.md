@@ -17,3 +17,4 @@ Restrict access to a Cloud SQL instance by IP range
 
 When using Cloud Auth Proxy, leave the Authorized Networks blank since theres no need for it
 
+Never add 0.0.0.0/0 to authorized networks, that's the entire internet
