@@ -1,0 +1,2 @@
+
+*Max storage* - 64

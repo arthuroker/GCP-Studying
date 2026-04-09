@@ -26,3 +26,6 @@ Store your data in GCS first before importing it
 
 Use correct flags for dump files
 
+Cannot contain triggers, views, or stored procedures
+
+Compressing data to reduce costs
