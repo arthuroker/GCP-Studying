@@ -5,7 +5,7 @@ This establishes relationships and hierarchies within the data model
 
 A collection can contain one or more documents
 
-A document can optionally contain one or more subcollections
+A document can optionally contain one or more sub-collections
 
-
+A sub-collection can contain one or more documents
 
