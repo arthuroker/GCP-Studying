@@ -11,4 +11,6 @@ Any application that needs highly-available, strongly consistent, structured or 
 *Non Firestore use cases*
 
 1) Analytics
-2) Extreme scale (ie. 10 million read)
+2) Extreme scale (ie. 10 million reads/writes per second)
+3) Unstructured dataset
+4) 
