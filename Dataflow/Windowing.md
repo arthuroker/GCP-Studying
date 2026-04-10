@@ -7,4 +7,9 @@ Answers the problem of how to group a stream of data
 
 1) Tumbling/fixed
 2) Hopping/sliding
-3) Session-bas
+3) Session-based
+
+*Tumbling/Fixed windows*
+
+Data is divided into distinct, fixed-sized, non-overlapping intervals of time
+
