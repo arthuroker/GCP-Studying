@@ -13,5 +13,5 @@ Worker nodes - each have an
 
 HDFS data node - actual storage and replication of data
 
-YARN node manager
+YARN node manager - 
 
