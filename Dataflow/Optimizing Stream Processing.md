@@ -18,4 +18,5 @@ Especially important in unbounded/streaming data pipelines
 For late arriving data, triggers can be used to re-fire a window, updating it with new data that has arrived late
 
 1) Event-time trigger - fired when a watermark reaches a certain point
-2) 
+2) Processing-time trigger- fired based on real-world clock time
+3) Data-driven trigger - fired when 
