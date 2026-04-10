@@ -17,4 +17,6 @@ Needs to be enabled
 
 *Acknowledgement deadline*
 
-Time within which a subscriber must acknowledge that
+Time within which a subscriber must acknowledge that it received a message before a retry is attempted
+
+Max is 10 minutes
