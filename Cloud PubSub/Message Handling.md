@@ -15,3 +15,5 @@ This retention ensures that messages are available for replay
 
 *Topic retention* retains messages within a topic even after they are acknowledged by all subscribers
 
+*Subscription retention* retains unacknowledged messages for a particular subscription. Helpful in case a subscriber goes down
+
