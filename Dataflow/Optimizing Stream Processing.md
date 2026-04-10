@@ -19,4 +19,5 @@ For late arriving data, triggers can be used to re-fire a window, updating it wi
 
 1) Event-time trigger - fired when a watermark reaches a certain point
 2) Processing-time trigger- fired based on real-world clock time
-3) Data-driven trigger - fired when 
+3) Data-driven trigger - fired when a certain number of data records are processed
+
