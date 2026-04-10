@@ -35,3 +35,6 @@ This means you can replay previously acknowledged messages
 
 Can seek to a snapshot, or a specific time
 
+Seeking to a snapshot - return to the message acknowledgement state of a subscription
+
+Seeking to a time - marks every message received before that time 
