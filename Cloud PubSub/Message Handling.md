@@ -21,3 +21,8 @@ Topics - default is 7 days, max is 31 days
 
 Subscription - default is no retention, max is 31 days
 
+*Snapshots*
+
+Used to capture a specific state of a subscription as a recovery point for future use
+
+Use snapshots when you want to create a known good state of the subscription 
