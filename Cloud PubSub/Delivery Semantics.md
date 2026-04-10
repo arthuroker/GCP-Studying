@@ -5,6 +5,16 @@ Ensures every message will be delivered at least once
 
 Duplicates may occur
 
+Default in PubSub
+
 *Exactly-once delivery*
 
-Every message delivered exact
+Every message delivered exactly once 
+
+No message is lost and no duplicates occur
+
+Needs to be enabled
+
+*Acknowledgement deadline*
+
+Time within which a subscriber must acknowledge that
