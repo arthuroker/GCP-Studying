@@ -7,3 +7,4 @@ If a step fails or stalls, then the watermark fails to advance
 
 Late-arriving data - determine which window data belongs to, and ensure calculations are accurate
 
+*Event *
