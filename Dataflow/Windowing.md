@@ -13,3 +13,10 @@ Answers the problem of how to group a stream of data
 
 Data is divided into distinct, fixed-sized, non-overlapping intervals of time
 
+Sequential
+
+Usually for over time data
+
+*Hopping/Sliding windows*
+
+Fixed duration, overlap
