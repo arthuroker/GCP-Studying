@@ -7,4 +7,4 @@ If a step fails or stalls, then the watermark fails to advance
 
 Late-arriving data - determine which window data belongs to, and ensure calculations are accurate
 
-*Event *
+*Event time and processing time* - the system processes data based on when the event occurred (event time) and tracks progress with watermarks 
