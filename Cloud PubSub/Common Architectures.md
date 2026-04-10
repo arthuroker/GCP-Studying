@@ -17,3 +17,4 @@ Bigtable (NoSQL/IoT/Time-series)
 
 A term used to describe the software or hardware that collects all IoT telemetry and sends it to PubSub
 
+Buffers data and sends it when a stable connection is 
