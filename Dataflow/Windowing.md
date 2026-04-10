@@ -20,3 +20,7 @@ Usually for over time data
 *Hopping/Sliding windows*
 
 Fixed duration, overlap, "hopping" to a new window location
+
+*Session-based*
+
+Defined by a gap of unnatural 
