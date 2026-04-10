@@ -5,4 +5,5 @@ Timestamps that keep track of progress in your pipeline
 
 If a step fails or stalls, then the watermark fails to advance
 
-Late-arriving data - determine which 
+Late-arriving data - determine which window data belongs to, and ensure calculations are accurate
+
