@@ -29,4 +29,9 @@ Use snapshots when you want to create a known good state of the subscription to 
 
 *Seek feature*
 
-Allows you to change the acknowledgement state of messages, including already-acknowledged messa
+Allows you to change the acknowledgement state of messages, including already-acknowledged messages, in bulk
+
+This means you can replay previously acknowledged messages
+
+Can seek to a snapshot, or a specific time
+
