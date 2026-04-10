@@ -25,4 +25,8 @@ Subscription - default is no retention, max is 31 days
 
 Used to capture a specific state of a subscription as a recovery point for future use
 
-Use snapshots when you want to create a known good state of the subscription 
+Use snapshots when you want to create a known good state of the subscription to revert to
+
+*Seek feature*
+
+Allows you to change the acknowledgement state of messages, including already-acknowledged messa
