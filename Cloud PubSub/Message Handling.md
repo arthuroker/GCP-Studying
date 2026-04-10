@@ -9,6 +9,9 @@
 
 *Message retention*
 
-Message retention duration refers to the amount of time which PubSub retains messages before deleting
+*Message retention duration* refers to the amount of time which PubSub retains messages before deleting
 
 This retention ensures that messages are available for replay
+
+*Topic retention* retains messages within a topic even after they are acknowledged by all subscribers
+
