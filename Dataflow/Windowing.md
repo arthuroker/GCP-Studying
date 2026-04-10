@@ -23,4 +23,5 @@ Fixed duration, overlap, "hopping" to a new window location
 
 *Session-based*
 
-Defined by a gap of unnatural 
+Defined by a gap of natural inactivity in the data
+
