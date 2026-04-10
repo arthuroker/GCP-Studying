@@ -19,4 +19,4 @@ Usually for over time data
 
 *Hopping/Sliding windows*
 
-Fixed duration, overlap
+Fixed duration, overlap, "hopping" to a new window location
