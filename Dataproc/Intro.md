@@ -1,4 +1,5 @@
 
 *What is it*
 
-Mananged
+Managed, on-demand service version of Apache Hadoop and Apache Spark
+
