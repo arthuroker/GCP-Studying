@@ -39,3 +39,5 @@ Can seek to a snapshot, or a specific time
 
 *Seeking to a time* - marks every message received before that time as acknowledged and every message after that time as unacknowledged
 
+Can also be helpful for message retention changes/updates
+
