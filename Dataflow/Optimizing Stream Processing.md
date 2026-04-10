@@ -15,3 +15,5 @@ Conditions that decide when the aggregated results of data should be emitted
 
 Especially important in unbounded/streaming data pipelines
 
+For late arriving data, triggers can be used to re-fire a window, updating it with new data that has arrived late
+
