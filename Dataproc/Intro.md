@@ -5,4 +5,6 @@ Managed, on-demand service version of Apache Hadoop and Apache Spark
 
 *Dataproc Cluster Architecture*
 
-Mater node - central coordiantor overseeing two cricial function
+Mater node - central coordinator overseeing two crucial function
+	1) HDFS name node - how and where data is distributed across the cluster
+	2) YARN resource manager-
