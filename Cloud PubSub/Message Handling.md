@@ -17,3 +17,7 @@ This retention ensures that messages are available for replay
 
 *Subscription retention* retains unacknowledged messages for a particular subscription. Helpful in case a subscriber goes down
 
+Topics - default is 7 days, max is 31 days
+
+Subscription - default is no retention, max is 31 days
+
