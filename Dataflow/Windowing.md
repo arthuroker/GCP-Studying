@@ -25,4 +25,7 @@ Fixed duration, overlap, "hopping" to a new window location
 
 Defined by a gap of natural inactivity in the data
 
-Thus windows can. vary in size, a new sesion starts when inactivity is greater than the
+Thus windows can. vary in size, a new session starts when inactivity is greater than the amount of time we set
+
+Google Analytics default is 30 minutes
+
