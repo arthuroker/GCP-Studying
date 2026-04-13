@@ -5,4 +5,9 @@ View for security posture
 
 Monitors and manages security across GCP resources
 
-Detects vulnreabilities , misconfigurations, and suspicious activi
+Detects vulnerabilities, misconfigurations, and suspicious activities
+
+Ensures compliance with security standards like CIS benchmarks
+
+Provides actionable insights
+
