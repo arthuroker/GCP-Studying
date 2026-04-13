@@ -14,3 +14,9 @@ Can also protect App Engine, Load Balancers, and GCE resources
 *Reducing Attack Surface*
 
 Eliminates the need for backend IPs to be public
+
+Eliminates need for open ports
+
+*Connecting to a VM without a public IP*
+
+Can be enab
