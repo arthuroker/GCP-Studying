@@ -19,4 +19,7 @@ Eliminates need for open ports
 
 *Connecting to a VM without a public IP*
 
-Can be enab
+Can be enabled for SSH access without needing to create a public IP
+
+SSH through GCP infrastructure
+
