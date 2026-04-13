@@ -42,5 +42,9 @@ Data warehouse in Apache ecosystem
 
 Common workload when migrating to cloud
 
-Most popular formats are Parquet and 
+Most popular formats are Parquet and ORC (optimized row-column)
+
+Dataproc efficiently runs Hive queries on managed Hadoop clusters
+
+Hive data is u
 
