@@ -26,7 +26,11 @@ Cloud Spanner (globally distributed transactional data)
 
 Can scheduled automated jobs
 
-*Common Workfl*
+*Common Workflow*
+
+Data prep -> BQ could go to Sheets (connected sheets) or Looker Studio
+
+
 
 
 
