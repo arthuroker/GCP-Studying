@@ -7,4 +7,6 @@ Allows you to control access to your web applications and VMs by verifying the i
 
 Users requests a Cloud Run resource
 
-IAP intercept
+IAP intercepts the request to check if the User is authenticated and authorized
+
+Can also protect App Engine, 
