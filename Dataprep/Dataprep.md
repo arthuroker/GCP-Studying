@@ -11,3 +11,15 @@ Integrates with BQ and others
 
 *Sources*
 
+Cloud Storage (raw files, CSV, Parquet)
+
+Cloud SQL (structured relational data)
+
+BQ (large-scale analytics data sets)
+
+Cloud Spanner (globally distributed transactional data)
+
+
+
+
+
