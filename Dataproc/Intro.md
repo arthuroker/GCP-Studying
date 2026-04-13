@@ -17,9 +17,12 @@ YARN node manager - handle the actual work
 
 *Map Reduce*
 
-
+*Mapping Phase*
 1) Input data split into smaller chunks by mappers
 2) Each mapper works on a piece of the dataset
 
+*Reduce Phase*
+1) Shuffle, outputs of the mappers are reorganized
+2) Processed data combined by reducers to produce the output
 
 
