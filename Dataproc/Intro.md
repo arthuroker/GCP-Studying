@@ -36,5 +36,11 @@ Foundation of Apache Hadoop
 
 *HDFS data node* where the actual data is stored and replicated across different nodes
 
+*Apache Hive Data*
 
+Data warehouse in Apache ecosystem
+
+Common workload when migrating to cloud
+
+Most popular formats are Parquet and 
 
