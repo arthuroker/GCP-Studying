@@ -16,4 +16,10 @@ Need to choose region and zone
 
 *Cluster mode options*
 
-Single node - 1 maste
+*Single node* - 1 master node, no worker nodes
+	For development/testing, lightweight
+
+*Standard mode* - 1 master, custom number of worker nodes
+	Default for production
+
+*High availablility* 
