@@ -22,4 +22,10 @@ Need to choose region and zone
 *Standard mode* - 1 master, custom number of worker nodes
 	Default for production
 
-*High availablility* 
+*High availability* - 3 master nodes, custom number of worker nodes
+	Critical workloads
+
+
+
+*Preemptible nodes*
+
