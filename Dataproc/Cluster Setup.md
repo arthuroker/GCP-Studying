@@ -9,4 +9,11 @@ Need to choose region and zone
 
 *Local SSD size* - For high performance, cannot be changed later
 
-*Preemptible nodes* - cost-effective for non crt
+*Preemptible nodes* - cost-effective for non critical workloads
+
+*Staging Bucket* - Bucket for job logs, scripts, temp data, output
+
+
+*Cluster mode options*
+
+Single node - 1 maste
