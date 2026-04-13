@@ -9,5 +9,6 @@ Protection against DDOS, enables IP filtering, geo-based restrictions
 
 *gcloud commands (part of CE)*
 
+*Cloud Firewall vs Cloud Armor*
 
-
+Firewall ope
