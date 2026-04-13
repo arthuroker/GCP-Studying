@@ -9,3 +9,8 @@ Supports fine-grained access control
 
 Allows for auditing, versioning, and rotation
 
+*Example*
+
+1) Add API key in secret manger
+2) Add an ENV var that references the secret manager key
+3) At runtime it calls the ENV
