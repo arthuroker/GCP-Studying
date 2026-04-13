@@ -19,7 +19,14 @@ BQ (large-scale analytics data sets)
 
 Cloud Spanner (globally distributed transactional data)
 
++many non GCP data sources
 
+
+*Scheduled jobs*
+
+Can scheduled automated jobs
+
+*Common Workfl*
 
 
 
