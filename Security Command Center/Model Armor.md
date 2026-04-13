@@ -7,3 +7,5 @@ PII can leak into the model or be exposed
 
 Model armor sits between the user and model to ensure sensitive data is not processed
 
+Redacts and sanitized prompts like credit card number
+
