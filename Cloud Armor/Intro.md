@@ -11,4 +11,6 @@ Protection against DDOS, enables IP filtering, geo-based restrictions
 
 *Cloud Firewall vs Cloud Armor*
 
-Firewall ope
+Firewall operates at the network and infrastructure level
+
+Armor works at the applications level, mainly for HTTPS traffic
