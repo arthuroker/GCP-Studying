@@ -30,7 +30,9 @@ Can scheduled automated jobs
 
 Data prep -> BQ could go to Sheets (connected sheets) or Looker Studio
 
+*Exam tip*
 
+If mention data prep needed by people who don't know how to code, probably Dataprep
 
 
 
