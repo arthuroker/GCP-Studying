@@ -13,3 +13,5 @@ Supplied and managed completely on the customer
 
 Never stored within GCP
 
+Must be encrypted and decrypted client-side
+
