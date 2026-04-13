@@ -46,5 +46,9 @@ Most popular formats are Parquet and ORC (optimized row-column)
 
 Dataproc efficiently runs Hive queries on managed Hadoop clusters
 
-Hive data is u
+Hive data is usually stored in GCS
+
+*Rule of Thumb*
+
+If on-prem Apache Spark or Hadoop job, it should go to Dataproc
 
