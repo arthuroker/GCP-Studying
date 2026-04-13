@@ -5,3 +5,4 @@ Caches content at GCP's global edge locations, improving the experience for glob
 
 Integrates with Compute Engine, Load Balancing, and GCS
 
+Reduces load on backend and reduces egress costs
