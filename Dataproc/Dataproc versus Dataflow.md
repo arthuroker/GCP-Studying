@@ -12,4 +12,7 @@ More hands-on approach
 
 Don't have dependencies on Hadoop or Spark
 
-Migrating A
+Migrating Apache Beam, or willing to learn
+
+Want to move to a serverless approach
+
