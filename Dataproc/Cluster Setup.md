@@ -43,4 +43,9 @@ VM is removed from a cluster without disrupting jobs
 
 Data is automatically redistributed
 
-Applies onlyt 
+Applies only to Standard nodes
+
+Good for mixed setups, with both preemptible and standard, ensuring critical workloads aren't disrupted
+
+Must be enabled, not on by default
+
