@@ -37,3 +37,10 @@ Best for tasks that can handle interruptions and do not require persistent stora
 
 Jobs take less time
 
+*Graceful decomissioning*
+
+VM is removed from a cluster without disrupting jobs
+
+Data is automatically redistributed
+
+Applies onlyt 
