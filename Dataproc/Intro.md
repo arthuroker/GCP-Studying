@@ -34,4 +34,7 @@ Foundation of Apache Hadoop
 
 *HDFS name node* manages metdata
 
-HDFS data node w
+*HDFS data node* where the actual data is stored and replicated across different nodes
+
+
+
