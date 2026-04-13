@@ -16,3 +16,4 @@ HDFS data node - actual storage and replication of data
 YARN node manager - handle the actual work
 
 
+
