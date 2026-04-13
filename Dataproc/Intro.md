@@ -15,5 +15,11 @@ HDFS data node - actual storage and replication of data
 
 YARN node manager - handle the actual work
 
+*Map Reduce*
+
+
+1) Input data split into smaller chunks by mappers
+2) Each mapper works on a piece of the dataset
+
 
 
