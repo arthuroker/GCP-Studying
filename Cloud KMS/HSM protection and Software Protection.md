@@ -9,11 +9,16 @@ Good for standard encryption and standard needs
 
 Cheaper
 
-*HSM/ Hardware protection level/ Hardware security module*
+*HSM / Hardware protection level / Hardware security module*
 
 Physical tamper proof hardware
 
 Keys generated and stored within HSM
 
-Financial, 
+Financial, healthcare, and govt industries
+
+More expensive
+
+
+
 
