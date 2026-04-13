@@ -30,4 +30,8 @@ Foundation of Apache Hadoop
 2) Processed data combined by reducers to produce the output
 
 
-*HDFS (*
+*HDFS (Hadoop Distributed File System)*
+
+*HDFS name node* manages metdata
+
+HDFS data node w
