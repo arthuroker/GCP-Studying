@@ -11,4 +11,5 @@ Track API performance and usage with Cloud Monitoring and Cloud Trace
 
 *Example with App Engine*
 
-Layer between Users and APP
+Layer between Users and App Engine to intelligently track and route API requests
+
