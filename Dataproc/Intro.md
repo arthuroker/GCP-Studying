@@ -17,6 +17,10 @@ YARN node manager - handle the actual work
 
 *Map Reduce*
 
+Method to parallelize and distribute compute on large data sets
+
+Foundation of Apache Hadoop
+
 *Mapping Phase*
 1) Input data split into smaller chunks by mappers
 2) Each mapper works on a piece of the dataset
@@ -26,3 +30,4 @@ YARN node manager - handle the actual work
 2) Processed data combined by reducers to produce the output
 
 
+*HDFS (*
