@@ -5,3 +5,7 @@ Fully-managed API gateway service on GCP that allows you to expose, monitor, and
 
 Uses the Extensible Service Proxy to handle API management tasks such as authentication, rate limiting, and request validation
 
+Integrates with IAM
+
+Track API performance and usage with Cloud Monitoring and Cloud Trace
+
