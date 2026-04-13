@@ -7,5 +7,8 @@
 
 *Excluding cookies* - same resource is served when cookies don't affect it
 
+Doing this increases the cache hit ratio
 
-*Consolidating *
+
+
+
