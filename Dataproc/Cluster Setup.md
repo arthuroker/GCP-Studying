@@ -33,4 +33,7 @@ Much cheaper than standard nodes, but can be reclaimed by Google at any time
 
 Need at least 1 standard worker node
 
-Best for tasks that can handle interruptions and do not requir
+Best for tasks that can handle interruptions and do not require persistent storage
+
+Jobs take less time
+
