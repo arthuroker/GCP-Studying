@@ -9,4 +9,7 @@ BQ (relational tables)
 
 *In transit*
 
-Dataflow(in real-time or batch processing)
+Dataflow (in real-time or batch processing)
+
+PubSub (messaging streams)
+
