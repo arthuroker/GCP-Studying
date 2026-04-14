@@ -9,4 +9,13 @@ Can't experiment with new frameworks without code changes
 
 ML team is dependent on application deployment schedule
 
-Slow to ad
+Slow to adopt latest AI capabilities
+
+*Solution*
+
+Make the ML a Vertex AI endpoint instead of within the model codebase
+
+Benefits:
+
+1) Deploy new models without touching application
+2) 
