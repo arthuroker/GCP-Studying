@@ -13,4 +13,12 @@ Infrastructure complexity - Setting up and managing ML infrastructure required d
 
 Experiment chaos - tracking model versions, datasets, hyper-parameters across experiments was error-prone
 
-Model drift / monitoring - Models degraded silently in production without proper monitoring, leading to poor predictions and business impact going un
+Model drift / monitoring - Models degraded silently in production without proper monitoring, leading to poor predictions and business impact going unnoticed for a long time
+
+*Features*
+
+*Data* - Managed datasets and feature store
+
+*Exploration* - Workbench and Colab enterprise
+
+**
