@@ -43,5 +43,10 @@ Document translation with format retention
 
 Speech to Text supports real-time and batch transcription
 
-Can do sp
+Can do speaker labeling (Speaker 1, Speaker 2)
 
+*Recommendations AI API*
+
+Help build personalized recommendations systems for e-commerce sites
+
+Examples - "Other products you make like" and "Frequently"
