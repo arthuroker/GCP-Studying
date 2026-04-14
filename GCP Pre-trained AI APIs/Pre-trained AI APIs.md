@@ -39,3 +39,9 @@ Language detection
 
 Document translation with format retention
 
+*Speech to Text and Text to Speech APIs*
+
+Speech to Text supports real-time and batch transcription
+
+Can do sp
+
