@@ -16,7 +16,7 @@ Distinct from how much the mode structurally relies on a feature (feature import
 
 
 
-*Drift* - when the statistical distribution 
+*Drift* - when the statistical distribution of a feature production changes, compared to itself, over time
 
 
-*Skew*
+*Skew* - when the statistical distribution in production is different from its statistical 
