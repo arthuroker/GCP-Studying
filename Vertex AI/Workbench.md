@@ -11,3 +11,9 @@ Option to add GPUs
 
 Connects easily with other GCP services and Vertex AI components
 
+*JupyterLab*
+
+Interactive notebook interface to execute code cell-by-cell
+
+Popular for data science and ML workflows
+
