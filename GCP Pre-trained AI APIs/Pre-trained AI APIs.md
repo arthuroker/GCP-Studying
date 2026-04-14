@@ -29,4 +29,13 @@ Object localization (detection) - boxes around things in images/video
 
 Text detection (images and video) - what text is here
 
-*Face Detection*
+Face detection - sentiment of face, not identification
+
+*Cloud Translation API*
+
+Language translation - over 100 languages
+
+Language detection
+
+Document translation with format retention
+
