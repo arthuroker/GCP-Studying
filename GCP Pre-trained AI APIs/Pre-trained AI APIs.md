@@ -21,4 +21,12 @@ Analyzes text. Includes sentiment analysis, entity extraction, and syntax parsin
 
 *Cloud Vision and Video Intelligence APIs*
 
-Location detection (vision only), indentify 
+Location detection (vision only), identify landmarks
+
+Image/Video labeling - whats in these things
+
+Object localization (detection) - boxes around things in images/video
+
+Text detection (images and video) - what text is here
+
+*Face Detection*
