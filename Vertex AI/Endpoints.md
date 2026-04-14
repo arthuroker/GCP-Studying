@@ -19,3 +19,6 @@ Can split traffic to different versions of ML models under one endpoint
 
 *Location Consideration*
 
+Model and endpoint should be placed in the same region for latency
+
+
