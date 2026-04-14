@@ -17,3 +17,9 @@ Interactive notebook interface to execute code cell-by-cell
 
 Popular for data science and ML workflows
 
+Run cells in any order
+
+Variables and imported libraries remain in memory
+
+Good for experimentation, iterat
+
