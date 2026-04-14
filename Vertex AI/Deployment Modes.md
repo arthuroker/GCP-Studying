@@ -15,5 +15,13 @@ Example: Weekly customer loan risk scoring
 
 ms scale responses
 
+One prediction request after another
+
+Immediate
+
+low volume, high frequency
+
+Example: Credit card fraud detection
+
 
 
