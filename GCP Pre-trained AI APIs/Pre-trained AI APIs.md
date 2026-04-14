@@ -49,4 +49,5 @@ Can do speaker labeling (Speaker 1, Speaker 2)
 
 Help build personalized recommendations systems for e-commerce sites
 
-Examples - "Other products you make like" and "Frequently"
+Examples - "Other products you make like" and "Frequently bought together"
+
