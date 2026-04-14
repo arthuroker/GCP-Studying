@@ -11,4 +11,9 @@ and can write it to JSONL in GCS or BQ
 
 *Examples*
 
-Customer churn (quarterly)
+Customer churn (quarterly/monthly)
+
+Weekly demand forecasting
+
+Sales lead scoring
+
