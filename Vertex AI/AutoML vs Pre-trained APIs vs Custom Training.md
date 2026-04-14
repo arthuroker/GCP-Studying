@@ -15,4 +15,5 @@ Need control over data and model internals
 
 Habe ML expertise
 
+Custom architectures or novel problems
 
