@@ -15,4 +15,7 @@ All go to model registry, then can be deployed to endpoints
 
 *Traffic Splitting*
 
-Can splot traffic to different versions of ML models
+Can split traffic to different versions of ML models under one endpoint
+
+*Location Consideration*
+
