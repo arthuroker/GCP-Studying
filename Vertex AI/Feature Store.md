@@ -8,3 +8,9 @@
 3) Feature health blind spots, drift of the feature
 
 4) Skew, training versus serving uses different formats for input data
+
+*What is it*
+
+A centralized repository for storing, versioning, and serving pre-computed ML features
+
+Features c
