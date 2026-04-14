@@ -7,4 +7,6 @@ Train, host, serve ML models in a single environment
 
 *Historical HL problems*
 
-Tool fragmentation - differnt platforms and tools creates kno
+Tool fragmentation - different platforms and tools creates knowledge silos, compatibility issues, and inconsistent workflows
+
+Infrastructure complexity - Setting up and managing ML infrastructure required deep DevOps knowledge, taking away from model development and e
