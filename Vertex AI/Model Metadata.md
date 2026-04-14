@@ -1,6 +1,9 @@
 
 *ML Metadata store*
 
-Centralized repository where metadata gets written to by custom training, AutoML, and things like pipelines
+Centralized database where metadata gets written to by custom training, AutoML, and things like pipelines
 
-T
+This then is read in the experiments UI and the model registry UI and the ML metadata UI
+
+
+
