@@ -21,4 +21,11 @@ Model drift / monitoring - Models degraded silently in production without proper
 
 *Exploration* - Workbench and Colab enterprise
 
-**
+*Model development* - custom training, experiment, AutoML, metadata
+
+*Model management* - model registry
+
+*Deployment* - batch prediction, online prediction (endpoints)
+
+*Post-deployment* - monitoring
+
