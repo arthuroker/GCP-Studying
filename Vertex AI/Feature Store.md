@@ -19,3 +19,10 @@ Low-latency serving capabilities
 
 Helps track feature drift and data quality
 
+*Workflow*
+
+1) Engineer features from raw data
+2) Centralized in Feature Store
+3) Model training
+4) or Serving same features for predicitions
+
