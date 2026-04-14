@@ -1,7 +1,9 @@
 
 *Feature Drift/Skew*
 
-Changes in the 
+Changes in the statistical distribution of input features
+
+
 
 
 
