@@ -7,3 +7,4 @@ Can filter, sort, and review past runs
 
 *Reproducibility and Traceability*
 
+Experiments automatically capture important metadaaa
