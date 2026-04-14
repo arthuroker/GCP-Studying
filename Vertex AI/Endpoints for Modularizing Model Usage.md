@@ -18,4 +18,8 @@ Make the ML a Vertex AI endpoint instead of within the model codebase
 Benefits:
 
 1) Deploy new models without touching application
-2) 
+2) Rapidly adopt lastest AI capabilities
+3) ML team works independently
+4) Reuse endpoint for other applications
+5) Autoscaling based on server volume
+
