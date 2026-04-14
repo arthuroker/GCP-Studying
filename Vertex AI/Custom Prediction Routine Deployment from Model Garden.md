@@ -3,4 +3,7 @@ Many models in Model Garden can be deployed with one click directly from the Mod
 
 Some models require specialized pre-processing that standard Vertex AI containers can't handle
 
-Solution - package the model and custom code in Docker 
+Solution - package the model and custom code in Docker container
+
+Still get the managed serving benefits while using custom processing logic
+
