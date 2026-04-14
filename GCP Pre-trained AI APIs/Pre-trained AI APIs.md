@@ -9,10 +9,16 @@ Good for common tasks and general data
 
 Analyzes text. Includes sentiment analysis, entity extraction, and syntax parsing. Food for general use when domain-specific training is not needed
 
-*Exmaple*
+*Example*
 
-"John loves his new IPhone he bought next week"
+"John loves his new iPhone he bought next week"
 
 *Sentiment* +.85 (positive)
 
 *Entity* - name John type Person, name iPhone type Consumer good
+
+*Syntax* - John is a proper noun and the subject of the sentence
+
+*Cloud Vision and Video Intelligence APIs*
+
+Location detection (vision only), indentify 
