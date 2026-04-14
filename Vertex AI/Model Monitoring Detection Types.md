@@ -14,3 +14,9 @@ How much a feature actually contributes to predictions
 
 Distinct from how much the mode structurally relies on a feature (feature importance) and how much the real-world conditions change (concept drift)
 
+
+
+*Drift* - when the statistical distribution 
+
+
+*Skew*
