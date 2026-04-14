@@ -27,4 +27,5 @@ Good for experimentation, iteration, and debugging
 
 Quickest way to load data from BQ to Workbench is usually to use BQ cell magic
 
-Alloqs you to run SQL 
+Allows you to run SQL queries directly in a notebook cell
+
