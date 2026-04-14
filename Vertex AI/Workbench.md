@@ -21,5 +21,10 @@ Run cells in any order
 
 Variables and imported libraries remain in memory
 
-Good for experimentation, iterat
+Good for experimentation, iteration, and debugging
 
+*Loading data from BQ*
+
+Quickest way to load data from BQ to Workbench is usually to use BQ cell magic
+
+Alloqs you to run SQL 
