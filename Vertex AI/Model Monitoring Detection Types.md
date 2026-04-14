@@ -22,3 +22,4 @@ Distinct from how much the mode structurally relies on a feature (feature import
 
 *Feature Attribution Drift* - The predictive contributions of features in production change compared to themselves over time
 
+*Feature Attribution Skew* - The predictive contributions of features in production are different or become different from their predictive contributions in training
