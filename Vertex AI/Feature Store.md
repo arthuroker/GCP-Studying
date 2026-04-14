@@ -13,4 +13,9 @@
 
 A centralized repository for storing, versioning, and serving pre-computed ML features
 
-Features c
+Features can be reuses across multiple models, teams, and both in training and prediction
+
+Low-latency serving capabilities
+
+Helps track feature drift and data quality
+
