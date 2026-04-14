@@ -11,4 +11,6 @@ Import from GCS, BQ, or Upload
 
 1) Unified storage
 2) Format standardization
-3) 
+3) Lineage and versioning
+4) Integration with downstream services 
+5) Easy data labeling
