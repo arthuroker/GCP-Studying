@@ -29,3 +29,5 @@ Quickest way to load data from BQ to Workbench is usually to use BQ cell magic
 
 Allows you to run SQL queries directly in a notebook cell
 
+Results are automatically loaded into a Pandas data-frame (popular Python data tool)
+
