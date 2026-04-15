@@ -33,4 +33,4 @@ High volume recommendation predictor - low sampling, high frequency
 
 Diagnostic models with manageable patient volume and changes develop slowly - high sampling, low frequency
 
-Large-scale recommendation system with massive
+Large-scale recommendation system with massive traffic but content preferences change slowly - low sampling, low frequency
