@@ -15,3 +15,8 @@ Good for deep neural networks
 
 *TPU*
 
+Custom designed by Google for ML workloads
+
+Specialized matrix multiplication units and optimized memory architecture for tensor operations
+
+Good for very large scale DNN training, 
