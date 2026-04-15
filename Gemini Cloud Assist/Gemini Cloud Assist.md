@@ -5,4 +5,5 @@ Gemini is integrated into Google Cloud
 
 Be careful in cases of security, governance, etc.
 
-It should be treated as an advisor, 
+It should be treated as an advisor, not to intervene or modify this policy
+
