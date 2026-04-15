@@ -9,4 +9,5 @@ Like triggering HTTP(S) requests
 
 *Example tasks*
 
-Dataflow pipeline, Cloud Function, Publish message to a PubSub topic, Cloud Run service, Send requ
+Dataflow pipeline, Cloud Function, Publish message to a PubSub topic, Cloud Run service, Send request to a REST API
+
