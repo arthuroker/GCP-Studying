@@ -9,3 +9,12 @@ Potentially millions of predictions requests to the endpoint every day
 
 *Monitoring less accurate* - especially with smaller and lower volume endpoints
 
+*Frequency*
+
+Determines when the monitoring analysis runs
+
+Specified in cron notation
+
+Asterisk in place means "every" for that time interval
+
+(Mo)
