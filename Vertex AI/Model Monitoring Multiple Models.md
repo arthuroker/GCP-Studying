@@ -6,4 +6,5 @@ Two models
 
 Want to mange it to the same endpoint
 
-We can provide a 
+We can provide a model configuration file to let GCP how to monitor it
+
