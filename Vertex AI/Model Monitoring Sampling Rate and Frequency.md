@@ -7,4 +7,5 @@ Potentially millions of predictions requests to the endpoint every day
 
 *Saves cost* - requires less compute and storage
 
-**
+*Monitoring less accurate* - especially with smaller and lower volume endpoints
+
