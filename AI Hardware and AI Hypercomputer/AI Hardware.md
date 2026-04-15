@@ -25,4 +25,5 @@ In practice, GPUs are sufficient
 
 *Accelerators*
 
-Can control 
+Can control the CPU/GPU ratio by adding GPU accelerators to general purpose or other machine types
+
