@@ -31,4 +31,6 @@ Finance examples - high for both
 
 High volume recommendation predictor - low sampling, high frequency
 
-Diagnostic models with manageable patient volum
+Diagnostic models with manageable patient volume and changes develop slowly - high sampling, low frequency
+
+Large-scale recommendation system with massive
