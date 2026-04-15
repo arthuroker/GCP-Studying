@@ -6,4 +6,6 @@ Baseline data set must match the training dataset used to train the deployed mod
 Process
 
 1) Train model
-2) De
+2) Deploy
+3) Upload same training data in model monitoring
+4) Enable skew detection 
