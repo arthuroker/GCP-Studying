@@ -21,4 +21,12 @@ Asterisk in place means "every" for that time interval
 
 *Sampling rate + frequency*
 
-How quickly you'll 
+How quickly you'll detect drift/skew
+
+How reliably you'll detect it
+
+Your monitoring costs
+
+Finance examples - high for both
+
+High volumne recommendation 
