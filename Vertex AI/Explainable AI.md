@@ -15,4 +15,7 @@ Not a standalone product
 
 *Sampled Shapley (SHAP)* - Good for tabular data with tree-based / ensemble models
 
-*Integrated gradients* - good for differntiable models. Tabular and image
+*Integrated gradients* - good for differentiable models. Tabular and images. Uses pixel level for images
+
+*XRAI* - good for explanations of images at a high level
+
