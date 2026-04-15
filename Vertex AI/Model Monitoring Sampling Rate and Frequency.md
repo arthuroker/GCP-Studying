@@ -17,4 +17,8 @@ Specified in cron notation
 
 Asterisk in place means "every" for that time interval
 
-(Mo)
+(Minute)(Hour)(Day of Month)(Month)(Day of Week)
+
+*Sampling rate + frequency*
+
+How quickly you'll 
