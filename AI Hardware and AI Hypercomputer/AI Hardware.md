@@ -27,3 +27,9 @@ In practice, GPUs are sufficient
 
 Can control the CPU/GPU ratio by adding GPU accelerators to general purpose or other machine types
 
+*AI Hypercomputer*
+
+Not a service or settings
+
+Just refers to Google's low-latency TPU pods
+
