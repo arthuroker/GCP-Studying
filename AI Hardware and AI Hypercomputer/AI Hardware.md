@@ -19,4 +19,10 @@ Custom designed by Google for ML workloads
 
 Specialized matrix multiplication units and optimized memory architecture for tensor operations
 
-Good for very large scale DNN training, 
+Good for very large scale DNN training, especially with Tensorflow
+
+In practice, GPUs are sufficient
+
+*Accelerators*
+
+Can control 
