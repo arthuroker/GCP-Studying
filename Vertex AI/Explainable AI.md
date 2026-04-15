@@ -13,6 +13,6 @@ Not a standalone product
 
 *Feature based methods*
 
-*Sampled Shapley (SHAP)*
+*Sampled Shapley (SHAP)* - Good for tabular data with tree-based / ensemble models
 
-Good for tabular data with tree-base
+*Integrated gradients* - good for differntiable models. Tabular and image
