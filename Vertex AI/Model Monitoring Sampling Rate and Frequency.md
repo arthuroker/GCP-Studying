@@ -29,4 +29,6 @@ Your monitoring costs
 
 Finance examples - high for both
 
-High volumne recommendation 
+High volume recommendation predictor - low sampling, high frequency
+
+Diagnostic models with manageable patient volum
