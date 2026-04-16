@@ -29,4 +29,7 @@ Measured in time, x amount of downtime allowed
 	RPO = basically 0
 	RTO = seconds
 
-*Regional Persis*
+*Regional Persistent Disk* 
+	RPO = basically 0
+	RTO = minutes
+
