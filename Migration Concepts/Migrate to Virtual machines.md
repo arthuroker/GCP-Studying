@@ -10,3 +10,9 @@ Works with
 3) Azure VMs
 4) VMWare Engine
 
+Process
+
+1) Migration service runs in GCP
+2) Discovery
+3) Replication
+4) Cut
