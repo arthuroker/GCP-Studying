@@ -23,3 +23,5 @@ Need: A disaster recovery solution in GCP that is managed and minimizes operatio
 
 Use Backup and DR
 
+If failure occurs, could recreate the environment with Compute Engine
+
