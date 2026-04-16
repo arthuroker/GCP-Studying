@@ -11,3 +11,7 @@ Drag and drop interface for integration setup
 
 Converting formats between systems
 
+Triggers can run on schedules, events, or API calls
+
+Updates can flow both ways
+
