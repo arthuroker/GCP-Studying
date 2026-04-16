@@ -1,5 +1,7 @@
 
 *Recovery Point Objective*
 
-Sync points - when data is backed up/replicated
+*Synchronization points* - when data is backed up/replicated
+
+Data from last sync point and disaster could be lost, the time and data between this time is called the *Recovery Point Objective*
 
