@@ -21,3 +21,12 @@ Measured in time, x amount of downtime allowed
 	RPO = 0
 	RTO = seconds
 
+*BQ*
+	RPO = 0
+	RTO = seconds
+
+*Cloud Storage* - Dual or multi region
+	RPO = basically 0
+	RTO = seconds
+
+*Regional Persis*
