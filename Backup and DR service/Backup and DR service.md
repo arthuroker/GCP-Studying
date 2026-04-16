@@ -5,4 +5,11 @@ GCP's managed backup and disaster recovery platform
 
 Can be used with:
 
-1) Compute Engine 
+1) Compute Engine VMs
+2) Many popular databases
+3) VMWare
+4) GKE Volumes
+5) On-prem and Cloud Workloads
+
+Centralized protection plan that define schedule, retention, and application consistency
+
