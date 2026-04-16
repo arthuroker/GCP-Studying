@@ -8,4 +8,5 @@ Migration may be extremely difficult, need uptime
 *Solution*
 
 1) Map dependencies
-2) 
+2) Migrate, test, cutover traffic for each service
+
