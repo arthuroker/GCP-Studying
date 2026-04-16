@@ -5,4 +5,13 @@ A centralized tool for discovering, assessing, and planning migrations from on-p
 
 ![[Pasted image 20260416105952.png]]
 
+*Cost Estimation*
+
+Existing infrastructure
+
+Auto-discover the workloads
+
+Analysis
+
+Generates Costs projections
 
