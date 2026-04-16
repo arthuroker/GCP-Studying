@@ -13,3 +13,5 @@ How much downtime can we tolerate?
 
 Measured in time, x amount of downtime allowed
 
+*Cloud SQL* - HA mode cross zone sync replica
+	
