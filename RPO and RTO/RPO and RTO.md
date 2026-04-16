@@ -14,4 +14,10 @@ How much downtime can we tolerate?
 Measured in time, x amount of downtime allowed
 
 *Cloud SQL* - HA mode cross zone sync replica
-	
+	RPO = basically 0
+	RTO = 60-120 seconds
+
+*Cloud Spanner* - Regional or Multi-regional
+	RPO = 0
+	RTO = seconds
+
