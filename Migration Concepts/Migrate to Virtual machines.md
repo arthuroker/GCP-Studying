@@ -15,4 +15,6 @@ Process
 1) Migration service runs in GCP
 2) Discovery
 3) Replication
-4) Cut
+4) Cutover/migration
+
+
