@@ -19,3 +19,7 @@ Global deduplication and compression to reduce storage costs
 
 On-prem critical production VM
 
+Need: A disaster recovery solution in GCP that is managed and minimizes operational complexity
+
+Use Backup and DR
+
