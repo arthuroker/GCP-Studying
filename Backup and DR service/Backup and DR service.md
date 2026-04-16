@@ -13,3 +13,9 @@ Can be used with:
 
 Centralized protection plan that define schedule, retention, and application consistency
 
+Global deduplication and compression to reduce storage costs
+
+*Use Case*
+
+On-prem critical production VM
+
