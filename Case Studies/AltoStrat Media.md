@@ -14,3 +14,5 @@ Already on GCP (GKE, Cloud Storage, Big Query, Cloud Run Functions)
 
 Massive library of diverse and large data files (lots of data + AI potential)
 
+Wants to become an AI-first media platform with personalized recommendations, natural language interactions, and self-service support
+
