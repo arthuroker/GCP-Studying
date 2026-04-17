@@ -16,5 +16,7 @@ Massive library of diverse and large data files (lots of data + AI potential)
 
 Wants to become an AI-first media platform with personalized recommendations, natural language interactions, and self-service support
 
+Availability, UX, and latency are important
+
 ![[Pasted image 20260417162647.png]]
 
