@@ -20,3 +20,10 @@ Availability, UX, and latency are important
 
 ![[Pasted image 20260417162647.png]]
 
+Theme 1
+
+AI Transformation
+
+![[Pasted image 20260417163742.png]]
+
+
