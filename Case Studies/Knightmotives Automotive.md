@@ -33,4 +33,10 @@ Data Platform and Monetization
 
 ![[Pasted image 20260421124558.png]]
 
+Theme 3
+
+Security and Risk Management
+
+![[Pasted image 20260421124722.png]]
+
 
