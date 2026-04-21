@@ -38,3 +38,9 @@ Hybrid Connectivity and Compliance
 
 ![[Pasted image 20260421114044.png]]
 
+Theme 3
+
+Operations and Observability
+
+![[Pasted image 20260421114503.png]]
+
