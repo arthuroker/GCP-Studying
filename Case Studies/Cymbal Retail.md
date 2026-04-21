@@ -28,3 +28,8 @@ AI powered commerce
 
 ![[Pasted image 20260421111518.png]]
 
+Theme 2
+
+Data Integration
+
+![[Pasted image 20260421112312.png]]
