@@ -12,7 +12,7 @@ Leading provider in electronic healthcare record software (SaaS)
 
 SaaS company serving healthcare globally
 
-Hosted in colocation facilities (one lease expiring, migration is urgent)
+Hosted in colocation facilities (rent servers that they manage) (one lease expiring, migration is urgent)
 
 Already containerized apps on Kubernetes, 4 databases (MY SQL, SQL Server, Redis, MongoDB)
 
