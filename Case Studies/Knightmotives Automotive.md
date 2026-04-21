@@ -21,4 +21,10 @@ Past data breaches, GDPR compliance required, dealers have no budget for new equ
 
 Wants to shift from car manufacturer to automotive experience company using AI over 5 years
 
+Theme 1
+
+In Vehicle AI and IoT
+
+![[Pasted image 20260421124412.png]]
+
 
