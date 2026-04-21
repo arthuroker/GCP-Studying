@@ -32,3 +32,9 @@ Migration and Disaster Recovery
 
 ![[Pasted image 20260421113734.png]]
 
+Theme 2
+
+Hybrid Connectivity and Compliance
+
+![[Pasted image 20260421114044.png]]
+
