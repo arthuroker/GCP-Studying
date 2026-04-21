@@ -20,4 +20,5 @@ Legacy insurance integrations on-prem, NOT moving anytime soon
 
 Microsoft Active Directory for identity, open source monitoring with ignored email alerts
 
-Wants to scale, improve DR, and rollout continuous deploy
+Wants to scale, improve DR, and rollout continuous deployment on GCP
+
