@@ -27,3 +27,7 @@ AI Transformation
 ![[Pasted image 20260417163742.png]]
 
 
+Theme 2 
+
+Infrastructure Modernization
+
