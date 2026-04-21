@@ -27,4 +27,10 @@ In Vehicle AI and IoT
 
 ![[Pasted image 20260421124412.png]]
 
+Theme 2
+
+Data Platform and Monetization
+
+![[Pasted image 20260421124558.png]]
+
 
