@@ -18,3 +18,7 @@ Two disconnected customer paths (web app and phone/call center)
 
 Wants to use gen AI for catalog enrichment, conversational commerce, and product discovery
 
+*Architecture*
+
+![[Pasted image 20260421111353.png]]
+
