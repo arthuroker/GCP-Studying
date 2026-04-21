@@ -34,3 +34,9 @@ Data and Integration Modernization
 
 ![[Pasted image 20260421112312.png]]
 
+Theme 3
+
+Operations and Security
+
+![[Pasted image 20260421112711.png]]
+
