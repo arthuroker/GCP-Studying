@@ -19,4 +19,6 @@ Online build-to-order is unreliable, straining dealer relationships
 
 Past data breaches, GDPR compliance required, dealers have no budget for new equipment
 
-Wants to shift from car manufacturer to utomotive epxeer
+Wants to shift from car manufacturer to automotive experience company using AI over 5 years
+
+
