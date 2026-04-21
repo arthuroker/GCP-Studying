@@ -22,3 +22,9 @@ Wants to use gen AI for catalog enrichment, conversational commerce, and product
 
 ![[Pasted image 20260421111353.png]]
 
+Theme 1
+
+AI powered commerce
+
+![[Pasted image 20260421111518.png]]
+
