@@ -30,6 +30,7 @@ AI powered commerce
 
 Theme 2
 
-Data Integration
+Data and Integration Modernization
 
 ![[Pasted image 20260421112312.png]]
+
