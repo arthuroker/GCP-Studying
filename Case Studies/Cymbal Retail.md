@@ -10,3 +10,8 @@ Multi-category online retailer experiencing significant growth
 
 Takeaways
 
+Online retailer with massive product catalog across multiple verticals
+
+Messy legacy environment (4 databases, SFTP, ETL, 3 monitoring tools)
+
+Two disconnected customer paths (web)
