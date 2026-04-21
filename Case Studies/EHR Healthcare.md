@@ -26,3 +26,9 @@ Wants to scale, improve DR, and rollout continuous deployment on GCP
 
 ![[Pasted image 20260421113605.png]]
 
+Theme 1
+
+Migration and Disaster Recovery
+
+![[Pasted image 20260421113734.png]]
+
