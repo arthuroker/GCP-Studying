@@ -22,3 +22,7 @@ Microsoft Active Directory for identity, open source monitoring with ignored ema
 
 Wants to scale, improve DR, and rollout continuous deployment on GCP
 
+*Architecture*
+
+![[Pasted image 20260421113605.png]]
+
