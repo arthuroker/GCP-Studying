@@ -34,3 +34,9 @@ Infrastructure Modernization
 ![[Pasted image 20260421110409.png]]
 
 
+Theme 3
+
+Cost and Governance
+
+![[Pasted image 20260421110619.png]]
+
