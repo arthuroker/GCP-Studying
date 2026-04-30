@@ -6,7 +6,7 @@ Can execute commands, file uploads, port forwarding
 
 It encrypts the data transfer
 
-*Identity aware proxy (IAP) (connecting to VM without public IP*
+*Identity aware proxy (IAP) (connecting to VM without public IP*)
 
 Routes SSH connection through Google's infrastructure
 
